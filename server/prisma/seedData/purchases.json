@@ -1,802 +1,4902 @@
 [
   {
-    "purchaseId": "5035f91e-4a29-411a-8779-17f6105675f1",
-    "productId": "d35623ee-bef6-42b2-8776-2f99f8bb4782",
-    "timestamp": "2007-09-28T13:56:51Z",
-    "quantity": 875,
-    "unitCost": 4163.31,
-    "totalCost": 7871.43
-  },
-  {
-    "purchaseId": "85841cb5-2132-40f2-b923-9769ee3c199b",
-    "productId": "8ac1ac77-7358-425e-be16-0bdde9f02e59",
-    "timestamp": "2015-02-01T13:04:43Z",
-    "quantity": 471,
-    "unitCost": 5673.17,
-    "totalCost": 485.48
-  },
-  {
-    "purchaseId": "de384851-f898-4495-99b8-73448bb470bf",
-    "productId": "1afc136b-4d9f-4e8e-aace-8e1df908a404",
-    "timestamp": "2010-10-22T19:38:20Z",
-    "quantity": 37,
-    "unitCost": 3835.06,
-    "totalCost": 4202.25
-  },
-  {
-    "purchaseId": "e0b0486c-6396-42b7-9a84-e21bd3a88600",
-    "productId": "af84cc12-4fea-4f58-aece-f2ce92ca9580",
-    "timestamp": "2020-01-25T13:30:58Z",
-    "quantity": 201,
-    "unitCost": 1822.27,
-    "totalCost": 8028.29
-  },
-  {
-    "purchaseId": "822e6025-e582-4e8c-b143-dc5ebad4c18c",
-    "productId": "86e3bb1c-2f5d-4774-98f3-4df7cddd0a0f",
-    "timestamp": "2011-12-30T12:54:41Z",
-    "quantity": 789,
-    "unitCost": 9238.02,
-    "totalCost": 5086.57
-  },
-  {
-    "purchaseId": "dd6d3a14-92d5-40f4-9bf4-92fb4043882c",
-    "productId": "26b017c6-06d8-443f-9b4a-d6b1cee6f4c0",
-    "timestamp": "2014-02-26T01:13:31Z",
-    "quantity": 251,
-    "unitCost": 2443.32,
-    "totalCost": 9520.42
-  },
-  {
-    "purchaseId": "434e5415-cb23-4170-b1e7-bc85737dc8c7",
-    "productId": "440c9e80-6bf8-4eb3-b2d2-f81936d67de3",
-    "timestamp": "2001-11-18T23:49:33Z",
-    "quantity": 418,
-    "unitCost": 5085.79,
-    "totalCost": 5394.89
-  },
-  {
-    "purchaseId": "963a92ab-e092-4f3d-8b6a-5ab803550d78",
-    "productId": "98255f4e-40a6-470f-89a5-0792729f8947",
-    "timestamp": "2020-04-27T08:53:44Z",
-    "quantity": 926,
-    "unitCost": 8626.52,
-    "totalCost": 3526.35
-  },
-  {
-    "purchaseId": "b4aebfdc-bce9-4e90-89fc-5098447d687a",
-    "productId": "2a339fb2-f9f3-43bc-a85a-b217a0a38f12",
-    "timestamp": "2020-02-05T13:02:55Z",
-    "quantity": 754,
-    "unitCost": 9052.79,
-    "totalCost": 8035.97
-  },
-  {
-    "purchaseId": "de2ba6a2-c291-4a60-aad1-23d5749c5847",
-    "productId": "8a8391b2-b4ac-4847-b652-66ffd8d65875",
-    "timestamp": "2020-05-07T16:41:13Z",
-    "quantity": 365,
-    "unitCost": 1105.02,
-    "totalCost": 361.77
-  },
-  {
-    "purchaseId": "78ea5f20-8fcc-4b6c-836f-e4b7a58d7479",
-    "productId": "be2157fb-7454-405e-9511-bf7ba81b7726",
-    "timestamp": "2014-08-12T16:37:41Z",
-    "quantity": 975,
-    "unitCost": 4783.47,
-    "totalCost": 9517.85
-  },
-  {
-    "purchaseId": "61ba57e9-81fe-4d04-85b5-6aab219ced9d",
-    "productId": "fdf1ba3d-fa06-4ce5-90ff-d081c5d37176",
-    "timestamp": "2008-12-07T16:18:59Z",
-    "quantity": 286,
-    "unitCost": 6910.82,
-    "totalCost": 9006.07
-  },
-  {
-    "purchaseId": "012d028b-4d6b-43bf-8d69-edf296133c9e",
-    "productId": "afded6df-058f-477d-9878-e0e0b1d3dff3",
-    "timestamp": "2005-12-29T10:50:55Z",
-    "quantity": 71,
-    "unitCost": 4058.81,
-    "totalCost": 5983.42
-  },
-  {
-    "purchaseId": "8155b76c-3da2-4fb4-ba18-68bf8a2cec1b",
-    "productId": "daa29167-82a7-474b-9687-b8b903e7ec69",
-    "timestamp": "2007-08-15T18:41:49Z",
-    "quantity": 963,
-    "unitCost": 2198.44,
-    "totalCost": 4935.68
-  },
-  {
-    "purchaseId": "4d449c76-ee8a-473e-8135-f74875a31964",
-    "productId": "ccb83982-71f3-4497-bad8-7e64c6920dc6",
-    "timestamp": "2014-12-05T06:28:48Z",
-    "quantity": 614,
-    "unitCost": 6565.99,
-    "totalCost": 6406.98
-  },
-  {
-    "purchaseId": "115c6e6c-e6d0-418f-990e-1730f9e4b02e",
-    "productId": "1936d406-e89e-40e4-bff7-1827532269d4",
-    "timestamp": "2003-12-17T12:52:02Z",
-    "quantity": 193,
-    "unitCost": 2562.72,
-    "totalCost": 788.08
-  },
-  {
-    "purchaseId": "7b898dfe-79e0-472c-a19e-d75d6a2719fd",
-    "productId": "c849a535-5f8b-47e3-889c-015693a644ac",
-    "timestamp": "2014-05-13T17:09:07Z",
-    "quantity": 585,
-    "unitCost": 1580.69,
-    "totalCost": 2633.43
-  },
-  {
-    "purchaseId": "cb3000e8-df2e-4e8b-99ed-4ceb35077404",
-    "productId": "0c3e80ee-59b3-4fc4-b760-8b07acc2d3ae",
-    "timestamp": "2006-10-21T15:28:13Z",
-    "quantity": 938,
-    "unitCost": 6197.05,
-    "totalCost": 3487.61
-  },
-  {
-    "purchaseId": "8b709837-e51b-493a-8720-89e64f9888e2",
-    "productId": "d8f5bee3-f3eb-4071-a124-6b857e0fd798",
-    "timestamp": "2002-08-23T21:20:02Z",
-    "quantity": 388,
-    "unitCost": 3280.29,
-    "totalCost": 21.24
-  },
-  {
-    "purchaseId": "8ee49368-1e96-41ed-bc53-7ba90ed537a4",
-    "productId": "8d15de86-0e4a-4414-9166-7a33610202d3",
-    "timestamp": "2022-09-09T02:34:59Z",
-    "quantity": 463,
-    "unitCost": 4646.46,
-    "totalCost": 273.21
-  },
-  {
-    "purchaseId": "a6d93761-366f-4e66-9a2f-2621d94896cb",
-    "productId": "ea8fd0b9-c2d9-4d43-9c23-44cb99d079bb",
-    "timestamp": "2013-04-06T06:29:40Z",
-    "quantity": 893,
-    "unitCost": 2857.95,
-    "totalCost": 7423.21
-  },
-  {
-    "purchaseId": "c6207ac3-3c64-49f4-9383-e47c32f11c28",
-    "productId": "25d01c80-bca1-4a00-b1d0-0fbd39ff9e89",
-    "timestamp": "2002-06-17T12:03:13Z",
-    "quantity": 22,
-    "unitCost": 3180.14,
-    "totalCost": 9077.46
-  },
-  {
-    "purchaseId": "02cb1517-154a-469e-88a1-33449be5b6de",
-    "productId": "1d6df6e3-b7ea-4507-9d66-87c6ee8ed5b9",
-    "timestamp": "2017-05-26T03:42:34Z",
-    "quantity": 70,
-    "unitCost": 4308.81,
-    "totalCost": 1589.27
-  },
-  {
-    "purchaseId": "6e468dfb-8cfc-4ad6-af0c-af0a1f6726ab",
-    "productId": "000a8c23-5bca-436c-a216-4e747a94c511",
-    "timestamp": "2013-02-03T13:03:56Z",
-    "quantity": 208,
-    "unitCost": 3424.81,
-    "totalCost": 9545.07
-  },
-  {
-    "purchaseId": "0f67af62-d82b-4986-ba91-0d7cc8261e21",
-    "productId": "c5b600dc-6bfb-492a-b335-c3cc8c707959",
-    "timestamp": "2020-03-16T04:44:49Z",
-    "quantity": 309,
-    "unitCost": 9757.04,
-    "totalCost": 9843.24
-  },
-  {
-    "purchaseId": "c7539c9a-06a1-4e1c-aba1-4b7c60354974",
-    "productId": "9d5fafbc-312b-47e8-ada1-283918f0c3b5",
-    "timestamp": "2011-08-01T04:44:36Z",
-    "quantity": 97,
-    "unitCost": 4437.3,
-    "totalCost": 7227.92
-  },
-  {
-    "purchaseId": "80e5fcca-73a3-4679-b27f-21328a77e077",
-    "productId": "0114d5d4-ae48-46fa-b0ca-afe60eb88add",
-    "timestamp": "2021-10-23T09:58:14Z",
-    "quantity": 727,
-    "unitCost": 6706.78,
-    "totalCost": 3444.68
-  },
-  {
-    "purchaseId": "33d99aae-0b34-4c3c-af34-dba1201fa025",
-    "productId": "e5b0da8c-148d-4680-b262-8609fb8a10da",
-    "timestamp": "2013-12-25T00:37:26Z",
-    "quantity": 246,
-    "unitCost": 7074.43,
-    "totalCost": 1551.41
-  },
-  {
-    "purchaseId": "0a05c7b9-01a2-48d2-b1ed-51e11dc50550",
-    "productId": "2be5b024-2c96-4f29-912c-c6f36353f799",
-    "timestamp": "2001-10-29T19:34:59Z",
-    "quantity": 193,
-    "unitCost": 1576.29,
-    "totalCost": 5458.34
-  },
-  {
-    "purchaseId": "4bbd5b44-51ea-40cb-b993-8c1c1f3d6146",
-    "productId": "fcf2e432-62a3-4b6f-a34d-36e42a12272e",
-    "timestamp": "2008-05-09T00:34:59Z",
-    "quantity": 265,
-    "unitCost": 9629.95,
-    "totalCost": 9902.55
-  },
-  {
-    "purchaseId": "1dc72d06-61c1-4606-b604-15fcd1a3943e",
-    "productId": "fc4c81e5-f1ac-40f5-8c6f-da3fbad5599d",
-    "timestamp": "2018-12-12T10:12:24Z",
-    "quantity": 342,
-    "unitCost": 9107.59,
-    "totalCost": 9187.51
-  },
-  {
-    "purchaseId": "51f66b06-f965-433c-9fca-35e344324b3f",
-    "productId": "07238d8e-0037-4972-87ca-0df206ee3e42",
-    "timestamp": "2022-11-23T16:45:20Z",
-    "quantity": 623,
-    "unitCost": 3511.85,
-    "totalCost": 8448.84
-  },
-  {
-    "purchaseId": "0669c359-14ad-488f-bf66-553cb4263a06",
-    "productId": "154b7860-23a2-4564-ad99-1745ab7122ef",
-    "timestamp": "2016-06-18T10:26:07Z",
-    "quantity": 856,
-    "unitCost": 584.88,
-    "totalCost": 6455.21
-  },
-  {
-    "purchaseId": "5e697ec5-7722-48b5-b682-c3752a11b62e",
-    "productId": "8d4bf814-65d4-4df4-84cc-68911d925fdf",
-    "timestamp": "2003-08-07T17:41:10Z",
-    "quantity": 330,
-    "unitCost": 9835.78,
-    "totalCost": 311.95
-  },
-  {
-    "purchaseId": "3e54b486-1044-46b6-82f9-2646d92d4afa",
-    "productId": "a52bf1bd-3d35-4cd2-849a-354e3952e2d2",
-    "timestamp": "2007-02-01T19:40:46Z",
-    "quantity": 265,
-    "unitCost": 6506.44,
-    "totalCost": 6583.9
-  },
-  {
-    "purchaseId": "3726ca7b-1f32-4cad-a21b-6112de7d73ad",
-    "productId": "d35623ee-bef6-42b2-8776-2f99f8bb4782",
-    "timestamp": "2012-07-16T01:03:33Z",
-    "quantity": 395,
-    "unitCost": 4122.4,
-    "totalCost": 4838.66
-  },
-  {
-    "purchaseId": "54e4ebc5-b083-42f3-a3ec-90dcd64923f3",
-    "productId": "8ac1ac77-7358-425e-be16-0bdde9f02e59",
-    "timestamp": "2002-02-19T15:33:07Z",
-    "quantity": 230,
-    "unitCost": 2500.44,
-    "totalCost": 7003.48
-  },
-  {
-    "purchaseId": "21af41db-67ee-42fb-ad12-8e53c9017a21",
-    "productId": "1afc136b-4d9f-4e8e-aace-8e1df908a404",
-    "timestamp": "2005-04-20T20:56:35Z",
-    "quantity": 770,
-    "unitCost": 3563.47,
-    "totalCost": 2068.71
-  },
-  {
-    "purchaseId": "6efcb79a-8db6-4271-b28b-cfb46441d6d8",
-    "productId": "af84cc12-4fea-4f58-aece-f2ce92ca9580",
-    "timestamp": "2013-01-08T17:38:44Z",
-    "quantity": 903,
-    "unitCost": 6854.34,
-    "totalCost": 6894.18
-  },
-  {
-    "purchaseId": "a5d27d65-6419-4741-94f0-9499151f9031",
-    "productId": "86e3bb1c-2f5d-4774-98f3-4df7cddd0a0f",
-    "timestamp": "2018-11-16T06:44:31Z",
-    "quantity": 220,
-    "unitCost": 170.61,
-    "totalCost": 3140.28
-  },
-  {
-    "purchaseId": "0ffb160a-c687-4155-bea3-fc3ecc7da237",
-    "productId": "26b017c6-06d8-443f-9b4a-d6b1cee6f4c0",
-    "timestamp": "2022-02-13T05:52:33Z",
-    "quantity": 625,
-    "unitCost": 5823.23,
-    "totalCost": 4498.82
-  },
-  {
-    "purchaseId": "f96e84fc-3b9c-4f96-b80c-0646752c2624",
-    "productId": "440c9e80-6bf8-4eb3-b2d2-f81936d67de3",
-    "timestamp": "2008-05-05T23:57:50Z",
-    "quantity": 260,
-    "unitCost": 1320.91,
-    "totalCost": 6951.15
-  },
-  {
-    "purchaseId": "65419b2f-d156-408b-bfb6-52846e3aca1d",
-    "productId": "98255f4e-40a6-470f-89a5-0792729f8947",
-    "timestamp": "2010-06-27T23:54:15Z",
-    "quantity": 72,
-    "unitCost": 6999.3,
-    "totalCost": 4171.88
-  },
-  {
-    "purchaseId": "cd59eb23-5b53-4a0c-a1a0-0950c5ea17f4",
-    "productId": "2a339fb2-f9f3-43bc-a85a-b217a0a38f12",
-    "timestamp": "2018-06-04T02:16:54Z",
-    "quantity": 846,
-    "unitCost": 1424.7,
-    "totalCost": 604.87
-  },
-  {
-    "purchaseId": "31b464d9-89a7-431e-9bf1-9d68ee05d549",
-    "productId": "8a8391b2-b4ac-4847-b652-66ffd8d65875",
-    "timestamp": "2019-12-08T22:05:22Z",
-    "quantity": 998,
-    "unitCost": 9289.05,
-    "totalCost": 3108.03
-  },
-  {
-    "purchaseId": "767fc135-43ca-4067-87bb-0ab503bbd4c3",
-    "productId": "be2157fb-7454-405e-9511-bf7ba81b7726",
-    "timestamp": "2005-01-25T15:21:10Z",
-    "quantity": 311,
-    "unitCost": 1386.68,
-    "totalCost": 8924.26
-  },
-  {
-    "purchaseId": "52ce8633-b4cc-455d-94ab-531a7fb5b720",
-    "productId": "fdf1ba3d-fa06-4ce5-90ff-d081c5d37176",
-    "timestamp": "2022-09-27T13:23:04Z",
-    "quantity": 71,
-    "unitCost": 6751.76,
-    "totalCost": 2580.36
-  },
-  {
-    "purchaseId": "e292f886-0f8d-4989-bc01-f43dfffde54e",
-    "productId": "afded6df-058f-477d-9878-e0e0b1d3dff3",
-    "timestamp": "2008-10-13T00:50:04Z",
-    "quantity": 134,
-    "unitCost": 4446.17,
-    "totalCost": 1718.57
-  },
-  {
-    "purchaseId": "42e2086e-6dda-4c8e-b635-4387d794d6a0",
-    "productId": "daa29167-82a7-474b-9687-b8b903e7ec69",
-    "timestamp": "2014-09-16T22:59:06Z",
-    "quantity": 807,
-    "unitCost": 9916.73,
-    "totalCost": 6818.54
-  },
-  {
-    "purchaseId": "c223c7fe-38d5-4291-b618-c44bd9f797a7",
-    "productId": "ccb83982-71f3-4497-bad8-7e64c6920dc6",
-    "timestamp": "2007-03-28T02:21:31Z",
-    "quantity": 726,
-    "unitCost": 2967.87,
-    "totalCost": 5509.38
-  },
-  {
-    "purchaseId": "e12f6fd6-af77-4556-8866-c724d88acc5d",
-    "productId": "1936d406-e89e-40e4-bff7-1827532269d4",
-    "timestamp": "2010-09-20T14:09:37Z",
-    "quantity": 763,
-    "unitCost": 2083.13,
-    "totalCost": 9062.53
-  },
-  {
-    "purchaseId": "503fbb6e-2c84-4293-ad1e-8ad1a4ea3c8f",
-    "productId": "c849a535-5f8b-47e3-889c-015693a644ac",
-    "timestamp": "2016-08-03T19:45:31Z",
-    "quantity": 675,
-    "unitCost": 6611.91,
-    "totalCost": 2353.38
-  },
-  {
-    "purchaseId": "418785b8-d434-4f1b-827b-52584eb91414",
-    "productId": "0c3e80ee-59b3-4fc4-b760-8b07acc2d3ae",
-    "timestamp": "2005-03-28T16:39:46Z",
-    "quantity": 839,
-    "unitCost": 1488.73,
-    "totalCost": 403.2
-  },
-  {
-    "purchaseId": "032f3bc6-1edf-45ee-8cdd-7a3dbd4ec6bd",
-    "productId": "d8f5bee3-f3eb-4071-a124-6b857e0fd798",
-    "timestamp": "2010-09-11T18:58:14Z",
-    "quantity": 776,
-    "unitCost": 9893.08,
-    "totalCost": 2071.46
-  },
-  {
-    "purchaseId": "f64f8bfd-7c71-4bb0-a74e-21907a8b2a71",
-    "productId": "8d15de86-0e4a-4414-9166-7a33610202d3",
-    "timestamp": "2011-06-19T11:19:53Z",
-    "quantity": 720,
-    "unitCost": 3132.2,
-    "totalCost": 1104.45
-  },
-  {
-    "purchaseId": "aa148601-a438-4c9a-ba20-6645945e750b",
-    "productId": "ea8fd0b9-c2d9-4d43-9c23-44cb99d079bb",
-    "timestamp": "2001-12-13T15:26:09Z",
-    "quantity": 392,
-    "unitCost": 4880.07,
-    "totalCost": 7915.32
-  },
-  {
-    "purchaseId": "feabf3d1-9727-4b03-bd5c-2c97d85fc91e",
-    "productId": "25d01c80-bca1-4a00-b1d0-0fbd39ff9e89",
-    "timestamp": "2019-07-06T09:30:09Z",
-    "quantity": 265,
-    "unitCost": 2609.83,
-    "totalCost": 1980.18
-  },
-  {
-    "purchaseId": "6f44cf51-39cf-46c6-8e7e-719347ec2124",
-    "productId": "1d6df6e3-b7ea-4507-9d66-87c6ee8ed5b9",
-    "timestamp": "2005-08-17T21:00:54Z",
-    "quantity": 984,
-    "unitCost": 8085.15,
-    "totalCost": 8511.07
-  },
-  {
-    "purchaseId": "e76ebddb-90a1-4916-a3bd-17b5c58855dd",
-    "productId": "000a8c23-5bca-436c-a216-4e747a94c511",
-    "timestamp": "2003-10-14T08:56:13Z",
-    "quantity": 575,
-    "unitCost": 6609.95,
-    "totalCost": 3212.6
-  },
-  {
-    "purchaseId": "00fb05b1-724d-4b82-8600-441d20127ecb",
-    "productId": "c5b600dc-6bfb-492a-b335-c3cc8c707959",
-    "timestamp": "2009-01-26T02:37:46Z",
-    "quantity": 324,
-    "unitCost": 5032.83,
-    "totalCost": 6453.79
-  },
-  {
-    "purchaseId": "2b5d452d-be4f-4fc0-a018-a156b0aa144a",
-    "productId": "9d5fafbc-312b-47e8-ada1-283918f0c3b5",
-    "timestamp": "2017-09-20T01:05:24Z",
-    "quantity": 859,
-    "unitCost": 9826.12,
-    "totalCost": 4717.49
-  },
-  {
-    "purchaseId": "8272d8dc-df85-455c-b2ec-7cc4611a570c",
-    "productId": "0114d5d4-ae48-46fa-b0ca-afe60eb88add",
-    "timestamp": "2014-11-05T03:06:06Z",
-    "quantity": 713,
-    "unitCost": 8238.67,
-    "totalCost": 6012.29
-  },
-  {
-    "purchaseId": "5d8b58d2-63b1-4419-ab46-16ed3664adfc",
-    "productId": "e5b0da8c-148d-4680-b262-8609fb8a10da",
-    "timestamp": "2008-11-29T17:59:44Z",
-    "quantity": 230,
-    "unitCost": 684.84,
-    "totalCost": 202.1
-  },
-  {
-    "purchaseId": "e33fabca-19cf-469b-b3e7-6e5f1f434a3e",
-    "productId": "2be5b024-2c96-4f29-912c-c6f36353f799",
-    "timestamp": "2018-03-14T04:27:34Z",
-    "quantity": 247,
-    "unitCost": 7781.32,
-    "totalCost": 55.1
-  },
-  {
-    "purchaseId": "17c90a13-0871-44a5-9dcf-9b46d756b780",
-    "productId": "fcf2e432-62a3-4b6f-a34d-36e42a12272e",
-    "timestamp": "2010-05-03T03:18:22Z",
-    "quantity": 267,
-    "unitCost": 5.18,
-    "totalCost": 5559.82
-  },
-  {
-    "purchaseId": "22be5e72-440c-4a02-8176-9eb50d9cdc99",
-    "productId": "fc4c81e5-f1ac-40f5-8c6f-da3fbad5599d",
-    "timestamp": "2001-09-14T20:35:26Z",
-    "quantity": 298,
-    "unitCost": 388.02,
-    "totalCost": 364.51
-  },
-  {
-    "purchaseId": "3b663fc6-e550-4513-9df4-ecd7399e3ad4",
-    "productId": "07238d8e-0037-4972-87ca-0df206ee3e42",
-    "timestamp": "2021-07-11T20:29:31Z",
-    "quantity": 356,
-    "unitCost": 3099.1,
-    "totalCost": 9858.3
-  },
-  {
-    "purchaseId": "a7cd1009-cca3-4dd0-a08e-519fbef15886",
-    "productId": "154b7860-23a2-4564-ad99-1745ab7122ef",
-    "timestamp": "2015-11-29T04:47:23Z",
-    "quantity": 560,
-    "unitCost": 8579.08,
-    "totalCost": 6600.09
-  },
-  {
-    "purchaseId": "08232378-99cf-4828-b36f-6d7a31baba64",
-    "productId": "8d4bf814-65d4-4df4-84cc-68911d925fdf",
-    "timestamp": "2016-09-15T07:58:08Z",
-    "quantity": 843,
-    "unitCost": 556.0,
-    "totalCost": 6556.65
-  },
-  {
-    "purchaseId": "d33fe221-fd05-4f75-a8cd-8540ab8e8ce6",
-    "productId": "a52bf1bd-3d35-4cd2-849a-354e3952e2d2",
-    "timestamp": "2016-03-27T16:52:42Z",
-    "quantity": 288,
-    "unitCost": 9563.81,
-    "totalCost": 1649.02
-  },
-  {
-    "purchaseId": "9cd56445-6055-450a-a992-e3ae14bb3338",
-    "productId": "d35623ee-bef6-42b2-8776-2f99f8bb4782",
-    "timestamp": "2000-03-20T02:42:32Z",
-    "quantity": 725,
-    "unitCost": 9495.08,
-    "totalCost": 5749.92
-  },
-  {
-    "purchaseId": "fd6d7c0a-5d02-4dbc-8217-1d826eb569ce",
-    "productId": "8ac1ac77-7358-425e-be16-0bdde9f02e59",
-    "timestamp": "2012-09-14T23:33:07Z",
-    "quantity": 141,
-    "unitCost": 4504.95,
-    "totalCost": 1561.89
-  },
-  {
-    "purchaseId": "fe28b71d-8883-4157-ac89-4a5105e8ff54",
-    "productId": "1afc136b-4d9f-4e8e-aace-8e1df908a404",
-    "timestamp": "2008-01-02T02:33:03Z",
-    "quantity": 388,
-    "unitCost": 6425.96,
-    "totalCost": 837.03
-  },
-  {
-    "purchaseId": "93a95d90-2d95-4e21-9d61-deb872b8ce23",
-    "productId": "af84cc12-4fea-4f58-aece-f2ce92ca9580",
-    "timestamp": "2018-06-18T17:24:06Z",
-    "quantity": 194,
-    "unitCost": 8925.08,
-    "totalCost": 8644.66
-  },
-  {
-    "purchaseId": "52a78535-b622-4c9e-834c-21ca705d07b5",
-    "productId": "86e3bb1c-2f5d-4774-98f3-4df7cddd0a0f",
-    "timestamp": "2022-11-06T03:27:35Z",
-    "quantity": 873,
-    "unitCost": 7537.82,
-    "totalCost": 1841.36
-  },
-  {
-    "purchaseId": "ed4adaea-bcd2-49e5-bc9e-84ed807fa04c",
-    "productId": "26b017c6-06d8-443f-9b4a-d6b1cee6f4c0",
-    "timestamp": "2022-04-20T14:20:15Z",
-    "quantity": 70,
-    "unitCost": 5186.13,
-    "totalCost": 9731.04
-  },
-  {
-    "purchaseId": "1ee44e30-7a8f-4e88-b6dd-01c11b26f6b9",
-    "productId": "440c9e80-6bf8-4eb3-b2d2-f81936d67de3",
-    "timestamp": "2008-04-18T13:02:07Z",
-    "quantity": 10,
-    "unitCost": 6835.47,
-    "totalCost": 4138.19
-  },
-  {
-    "purchaseId": "913bc6d9-6757-457c-a565-471396e4f5b5",
-    "productId": "98255f4e-40a6-470f-89a5-0792729f8947",
-    "timestamp": "2010-06-26T01:51:22Z",
-    "quantity": 651,
-    "unitCost": 1095.15,
-    "totalCost": 503.43
-  },
-  {
-    "purchaseId": "d33baec5-186c-428d-996d-6dbd12e20c10",
-    "productId": "2a339fb2-f9f3-43bc-a85a-b217a0a38f12",
-    "timestamp": "2015-06-01T00:52:08Z",
-    "quantity": 638,
-    "unitCost": 2282.03,
-    "totalCost": 5722.0
-  },
-  {
-    "purchaseId": "6eb61d25-4cf6-43f8-a52d-302cf0b29553",
-    "productId": "8a8391b2-b4ac-4847-b652-66ffd8d65875",
-    "timestamp": "2011-04-19T21:39:04Z",
-    "quantity": 67,
-    "unitCost": 5414.05,
-    "totalCost": 1905.77
-  },
-  {
-    "purchaseId": "37b1920b-5a4b-41c7-bbf0-a872e93f2ab3",
-    "productId": "be2157fb-7454-405e-9511-bf7ba81b7726",
-    "timestamp": "2008-12-12T12:16:22Z",
-    "quantity": 775,
-    "unitCost": 333.25,
-    "totalCost": 2883.66
-  },
-  {
-    "purchaseId": "9b4f68c8-2d1a-44c8-95e9-3b257a6c37e3",
-    "productId": "fdf1ba3d-fa06-4ce5-90ff-d081c5d37176",
-    "timestamp": "2020-12-29T16:46:08Z",
-    "quantity": 513,
-    "unitCost": 6781.28,
-    "totalCost": 5454.83
-  },
-  {
-    "purchaseId": "87c3172d-9ae8-4163-b8ef-ad638fa27c95",
-    "productId": "afded6df-058f-477d-9878-e0e0b1d3dff3",
-    "timestamp": "2019-04-05T05:20:27Z",
-    "quantity": 13,
-    "unitCost": 5414.02,
-    "totalCost": 4540.62
-  },
-  {
-    "purchaseId": "8aed5186-cb4a-4bbb-b8be-857ff8227289",
-    "productId": "daa29167-82a7-474b-9687-b8b903e7ec69",
-    "timestamp": "2019-05-19T23:47:06Z",
-    "quantity": 522,
-    "unitCost": 2047.88,
-    "totalCost": 456.65
-  },
-  {
-    "purchaseId": "a5e1bed8-ced3-41cd-af3b-d891e01e1c1d",
-    "productId": "ccb83982-71f3-4497-bad8-7e64c6920dc6",
-    "timestamp": "2018-12-19T05:41:28Z",
+    "purchaseId": "PUR0000",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 4,
+    "unitCost": 844.92,
+    "totalCost": 3379.68,
+    "timestamp": "2025-05-06T12:24:56"
+  },
+  {
+    "purchaseId": "PUR0001",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
     "quantity": 20,
-    "unitCost": 7741.5,
-    "totalCost": 6205.14
+    "unitCost": 416.35,
+    "totalCost": 8327.0,
+    "timestamp": "2025-04-02T11:54:34"
   },
   {
-    "purchaseId": "dcc30321-e243-4cce-808a-2e0c553eee94",
-    "productId": "1936d406-e89e-40e4-bff7-1827532269d4",
-    "timestamp": "2002-10-06T13:58:33Z",
-    "quantity": 473,
-    "unitCost": 8571.71,
-    "totalCost": 3088.43
+    "purchaseId": "PUR0002",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 7,
+    "unitCost": 1054.27,
+    "totalCost": 7379.89,
+    "timestamp": "2025-04-16T20:36:10"
   },
   {
-    "purchaseId": "d3462347-2e06-46ff-9088-ceb25ee3ed11",
-    "productId": "c849a535-5f8b-47e3-889c-015693a644ac",
-    "timestamp": "2008-10-07T18:13:43Z",
-    "quantity": 621,
-    "unitCost": 2592.95,
-    "totalCost": 5944.58
+    "purchaseId": "PUR0003",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP004",
+    "quantity": 13,
+    "unitCost": 172.36,
+    "totalCost": 2240.68,
+    "timestamp": "2025-02-14T10:24:23"
   },
   {
-    "purchaseId": "24bb1ac4-4d5c-4308-a6f9-a004bd819f5e",
-    "productId": "0c3e80ee-59b3-4fc4-b760-8b07acc2d3ae",
-    "timestamp": "2003-08-29T16:23:44Z",
-    "quantity": 240,
-    "unitCost": 7732.65,
-    "totalCost": 4956.83
+    "purchaseId": "PUR0004",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 16,
+    "unitCost": 1051.16,
+    "totalCost": 16818.56,
+    "timestamp": "2025-05-07T17:02:58"
   },
   {
-    "purchaseId": "42d5ade2-6b62-47f0-aaa4-0b065a0b73ff",
-    "productId": "d8f5bee3-f3eb-4071-a124-6b857e0fd798",
-    "timestamp": "2020-08-16T06:05:41Z",
-    "quantity": 729,
-    "unitCost": 9648.57,
-    "totalCost": 9558.36
+    "purchaseId": "PUR0005",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP004",
+    "quantity": 4,
+    "unitCost": 1786.07,
+    "totalCost": 7144.28,
+    "timestamp": "2025-05-14T19:35:16"
   },
   {
-    "purchaseId": "394dd7bb-d9ca-4ded-87ca-6336ca68f06c",
-    "productId": "8d15de86-0e4a-4414-9166-7a33610202d3",
-    "timestamp": "2019-06-19T07:23:51Z",
-    "quantity": 109,
-    "unitCost": 6608.23,
-    "totalCost": 8900.4
+    "purchaseId": "PUR0006",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP001",
+    "quantity": 8,
+    "unitCost": 916.36,
+    "totalCost": 7330.88,
+    "timestamp": "2025-02-06T10:22:03"
   },
   {
-    "purchaseId": "312e3902-2aaa-4678-bafb-534ec5fc1c24",
-    "productId": "ea8fd0b9-c2d9-4d43-9c23-44cb99d079bb",
-    "timestamp": "2014-03-12T17:47:55Z",
-    "quantity": 490,
-    "unitCost": 4139.51,
-    "totalCost": 428.37
+    "purchaseId": "PUR0007",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP003",
+    "quantity": 6,
+    "unitCost": 205.92,
+    "totalCost": 1235.52,
+    "timestamp": "2025-03-02T00:08:14"
   },
   {
-    "purchaseId": "9685898d-0b3c-4500-98cf-101e4e5818cf",
-    "productId": "25d01c80-bca1-4a00-b1d0-0fbd39ff9e89",
-    "timestamp": "2002-12-27T20:19:43Z",
-    "quantity": 926,
-    "unitCost": 305.23,
-    "totalCost": 326.1
+    "purchaseId": "PUR0008",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP002",
+    "quantity": 14,
+    "unitCost": 761.7,
+    "totalCost": 10663.8,
+    "timestamp": "2025-05-14T11:06:56"
   },
   {
-    "purchaseId": "c67d1950-3c03-401e-9f4a-573cc919c3ff",
-    "productId": "1d6df6e3-b7ea-4507-9d66-87c6ee8ed5b9",
-    "timestamp": "2000-03-28T15:44:26Z",
-    "quantity": 210,
-    "unitCost": 838.57,
-    "totalCost": 3004.31
+    "purchaseId": "PUR0009",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 15,
+    "unitCost": 1660.59,
+    "totalCost": 24908.85,
+    "timestamp": "2025-05-21T03:23:12"
   },
   {
-    "purchaseId": "0d793046-8eff-412c-983e-c13196c331cf",
-    "productId": "000a8c23-5bca-436c-a216-4e747a94c511",
-    "timestamp": "2009-09-30T02:48:52Z",
-    "quantity": 452,
-    "unitCost": 6538.73,
-    "totalCost": 9188.61
+    "purchaseId": "PUR0010",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 19,
+    "unitCost": 929.07,
+    "totalCost": 17652.33,
+    "timestamp": "2025-02-19T19:19:40"
   },
   {
-    "purchaseId": "b38af82a-d3fb-46ec-9f98-346faf95629f",
-    "productId": "c5b600dc-6bfb-492a-b335-c3cc8c707959",
-    "timestamp": "2018-01-17T10:45:44Z",
-    "quantity": 418,
-    "unitCost": 7846.58,
-    "totalCost": 9258.71
+    "purchaseId": "PUR0011",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP001",
+    "quantity": 8,
+    "unitCost": 1650.48,
+    "totalCost": 13203.84,
+    "timestamp": "2025-04-19T17:14:52"
   },
   {
-    "purchaseId": "32e25004-21cf-44ab-b44e-e3580d0ef9ce",
-    "productId": "9d5fafbc-312b-47e8-ada1-283918f0c3b5",
-    "timestamp": "2004-07-18T14:25:34Z",
-    "quantity": 902,
-    "unitCost": 1056.47,
-    "totalCost": 4319.07
+    "purchaseId": "PUR0012",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP002",
+    "quantity": 2,
+    "unitCost": 1607.62,
+    "totalCost": 3215.24,
+    "timestamp": "2025-05-19T16:08:53"
   },
   {
-    "purchaseId": "0bfea984-8cdd-45ee-9407-5c9da64f94b0",
-    "productId": "0114d5d4-ae48-46fa-b0ca-afe60eb88add",
-    "timestamp": "2017-01-24T20:41:03Z",
-    "quantity": 757,
-    "unitCost": 5163.91,
-    "totalCost": 8653.39
+    "purchaseId": "PUR0013",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 8,
+    "unitCost": 1112.54,
+    "totalCost": 8900.32,
+    "timestamp": "2025-04-14T09:21:19"
   },
   {
-    "purchaseId": "570950ee-9c94-4423-bc5d-546524adf1f3",
-    "productId": "e5b0da8c-148d-4680-b262-8609fb8a10da",
-    "timestamp": "2013-02-09T06:05:04Z",
-    "quantity": 856,
-    "unitCost": 9928.49,
-    "totalCost": 3502.45
+    "purchaseId": "PUR0014",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP004",
+    "quantity": 8,
+    "unitCost": 1851.19,
+    "totalCost": 14809.52,
+    "timestamp": "2025-03-11T03:25:01"
   },
   {
-    "purchaseId": "5ad8b5f9-aaee-428e-aa11-3c1991e6d703",
-    "productId": "2be5b024-2c96-4f29-912c-c6f36353f799",
-    "timestamp": "2000-01-23T11:04:04Z",
-    "quantity": 879,
-    "unitCost": 4230.1,
-    "totalCost": 7286.78
+    "purchaseId": "PUR0015",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 13,
+    "unitCost": 1704.64,
+    "totalCost": 22160.32,
+    "timestamp": "2025-02-04T06:56:50"
   },
   {
-    "purchaseId": "6253b4e0-5089-4daa-ad09-6424516ff613",
-    "productId": "fcf2e432-62a3-4b6f-a34d-36e42a12272e",
-    "timestamp": "2004-07-08T16:20:29Z",
-    "quantity": 762,
-    "unitCost": 1296.53,
-    "totalCost": 7583.95
+    "purchaseId": "PUR0016",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 13,
+    "unitCost": 1399.65,
+    "totalCost": 18195.45,
+    "timestamp": "2025-02-07T03:05:58"
+  },
+  {
+    "purchaseId": "PUR0017",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP004",
+    "quantity": 5,
+    "unitCost": 862.2,
+    "totalCost": 4311.0,
+    "timestamp": "2025-04-05T13:10:47"
+  },
+  {
+    "purchaseId": "PUR0018",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP004",
+    "quantity": 18,
+    "unitCost": 1595.37,
+    "totalCost": 28716.66,
+    "timestamp": "2025-02-07T17:15:56"
+  },
+  {
+    "purchaseId": "PUR0019",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP004",
+    "quantity": 9,
+    "unitCost": 1479.51,
+    "totalCost": 13315.59,
+    "timestamp": "2025-04-20T21:34:09"
+  },
+  {
+    "purchaseId": "PUR0020",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP002",
+    "quantity": 15,
+    "unitCost": 1820.42,
+    "totalCost": 27306.3,
+    "timestamp": "2025-04-17T19:38:05"
+  },
+  {
+    "purchaseId": "PUR0021",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP003",
+    "quantity": 2,
+    "unitCost": 1676.99,
+    "totalCost": 3353.98,
+    "timestamp": "2025-02-21T21:03:49"
+  },
+  {
+    "purchaseId": "PUR0022",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 20,
+    "unitCost": 1377.05,
+    "totalCost": 27541.0,
+    "timestamp": "2025-02-17T12:23:16"
+  },
+  {
+    "purchaseId": "PUR0023",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 17,
+    "unitCost": 587.11,
+    "totalCost": 9980.87,
+    "timestamp": "2025-04-22T13:46:58"
+  },
+  {
+    "purchaseId": "PUR0024",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP002",
+    "quantity": 9,
+    "unitCost": 1572.43,
+    "totalCost": 14151.87,
+    "timestamp": "2025-02-15T09:02:42"
+  },
+  {
+    "purchaseId": "PUR0025",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP004",
+    "quantity": 6,
+    "unitCost": 937.47,
+    "totalCost": 5624.82,
+    "timestamp": "2025-02-25T16:51:14"
+  },
+  {
+    "purchaseId": "PUR0026",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP004",
+    "quantity": 5,
+    "unitCost": 1609.42,
+    "totalCost": 8047.1,
+    "timestamp": "2025-03-01T18:22:34"
+  },
+  {
+    "purchaseId": "PUR0027",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP001",
+    "quantity": 13,
+    "unitCost": 246.63,
+    "totalCost": 3206.19,
+    "timestamp": "2025-03-25T20:27:53"
+  },
+  {
+    "purchaseId": "PUR0028",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 14,
+    "unitCost": 1401.07,
+    "totalCost": 19614.98,
+    "timestamp": "2025-05-17T10:43:11"
+  },
+  {
+    "purchaseId": "PUR0029",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 13,
+    "unitCost": 520.64,
+    "totalCost": 6768.32,
+    "timestamp": "2025-04-29T20:31:36"
+  },
+  {
+    "purchaseId": "PUR0030",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 5,
+    "unitCost": 533.35,
+    "totalCost": 2666.75,
+    "timestamp": "2025-05-12T01:02:02"
+  },
+  {
+    "purchaseId": "PUR0031",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP004",
+    "quantity": 20,
+    "unitCost": 1007.1,
+    "totalCost": 20142.0,
+    "timestamp": "2025-05-04T22:58:36"
+  },
+  {
+    "purchaseId": "PUR0032",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 10,
+    "unitCost": 1153.16,
+    "totalCost": 11531.6,
+    "timestamp": "2025-02-08T13:12:01"
+  },
+  {
+    "purchaseId": "PUR0033",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 2,
+    "unitCost": 716.73,
+    "totalCost": 1433.46,
+    "timestamp": "2025-03-18T06:15:33"
+  },
+  {
+    "purchaseId": "PUR0034",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP003",
+    "quantity": 14,
+    "unitCost": 586.63,
+    "totalCost": 8212.82,
+    "timestamp": "2025-05-27T12:57:42"
+  },
+  {
+    "purchaseId": "PUR0035",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP003",
+    "quantity": 8,
+    "unitCost": 1753.53,
+    "totalCost": 14028.24,
+    "timestamp": "2025-04-26T05:56:24"
+  },
+  {
+    "purchaseId": "PUR0036",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP003",
+    "quantity": 5,
+    "unitCost": 1740.38,
+    "totalCost": 8701.9,
+    "timestamp": "2025-02-07T23:11:45"
+  },
+  {
+    "purchaseId": "PUR0037",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 20,
+    "unitCost": 153.64,
+    "totalCost": 3072.8,
+    "timestamp": "2025-05-20T10:31:52"
+  },
+  {
+    "purchaseId": "PUR0038",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 20,
+    "unitCost": 1682.56,
+    "totalCost": 33651.2,
+    "timestamp": "2025-05-29T05:23:47"
+  },
+  {
+    "purchaseId": "PUR0039",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP003",
+    "quantity": 2,
+    "unitCost": 1157.64,
+    "totalCost": 2315.28,
+    "timestamp": "2025-03-17T01:45:13"
+  },
+  {
+    "purchaseId": "PUR0040",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP002",
+    "quantity": 9,
+    "unitCost": 1645.22,
+    "totalCost": 14806.98,
+    "timestamp": "2025-05-08T10:59:48"
+  },
+  {
+    "purchaseId": "PUR0041",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP002",
+    "quantity": 2,
+    "unitCost": 1083.35,
+    "totalCost": 2166.7,
+    "timestamp": "2025-05-07T19:42:48"
+  },
+  {
+    "purchaseId": "PUR0042",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP002",
+    "quantity": 14,
+    "unitCost": 442.38,
+    "totalCost": 6193.32,
+    "timestamp": "2025-03-15T17:27:17"
+  },
+  {
+    "purchaseId": "PUR0043",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP004",
+    "quantity": 18,
+    "unitCost": 1490.87,
+    "totalCost": 26835.66,
+    "timestamp": "2025-02-25T05:43:48"
+  },
+  {
+    "purchaseId": "PUR0044",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP004",
+    "quantity": 19,
+    "unitCost": 935.1,
+    "totalCost": 17766.9,
+    "timestamp": "2025-04-27T21:38:37"
+  },
+  {
+    "purchaseId": "PUR0045",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP002",
+    "quantity": 18,
+    "unitCost": 974.22,
+    "totalCost": 17535.96,
+    "timestamp": "2025-02-26T02:00:42"
+  },
+  {
+    "purchaseId": "PUR0046",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 1,
+    "unitCost": 228.72,
+    "totalCost": 228.72,
+    "timestamp": "2025-04-04T21:20:24"
+  },
+  {
+    "purchaseId": "PUR0047",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 16,
+    "unitCost": 1857.87,
+    "totalCost": 29725.92,
+    "timestamp": "2025-02-01T09:22:17"
+  },
+  {
+    "purchaseId": "PUR0048",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP003",
+    "quantity": 7,
+    "unitCost": 200.84,
+    "totalCost": 1405.88,
+    "timestamp": "2025-03-24T12:47:50"
+  },
+  {
+    "purchaseId": "PUR0049",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP003",
+    "quantity": 14,
+    "unitCost": 554.28,
+    "totalCost": 7759.92,
+    "timestamp": "2025-04-13T23:14:48"
+  },
+  {
+    "purchaseId": "PUR0050",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP004",
+    "quantity": 18,
+    "unitCost": 922.62,
+    "totalCost": 16607.16,
+    "timestamp": "2025-05-15T16:08:06"
+  },
+  {
+    "purchaseId": "PUR0051",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 2,
+    "unitCost": 504.64,
+    "totalCost": 1009.28,
+    "timestamp": "2025-04-06T11:17:38"
+  },
+  {
+    "purchaseId": "PUR0052",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 1,
+    "unitCost": 342.42,
+    "totalCost": 342.42,
+    "timestamp": "2025-03-23T16:28:00"
+  },
+  {
+    "purchaseId": "PUR0053",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 7,
+    "unitCost": 1960.86,
+    "totalCost": 13726.02,
+    "timestamp": "2025-02-07T08:28:52"
+  },
+  {
+    "purchaseId": "PUR0054",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP003",
+    "quantity": 19,
+    "unitCost": 613.96,
+    "totalCost": 11665.24,
+    "timestamp": "2025-02-06T11:31:10"
+  },
+  {
+    "purchaseId": "PUR0055",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP002",
+    "quantity": 1,
+    "unitCost": 333.07,
+    "totalCost": 333.07,
+    "timestamp": "2025-03-30T03:17:27"
+  },
+  {
+    "purchaseId": "PUR0056",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 11,
+    "unitCost": 1149.58,
+    "totalCost": 12645.38,
+    "timestamp": "2025-04-22T11:28:32"
+  },
+  {
+    "purchaseId": "PUR0057",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP004",
+    "quantity": 18,
+    "unitCost": 1934.56,
+    "totalCost": 34822.08,
+    "timestamp": "2025-03-27T18:01:57"
+  },
+  {
+    "purchaseId": "PUR0058",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP002",
+    "quantity": 17,
+    "unitCost": 1330.28,
+    "totalCost": 22614.76,
+    "timestamp": "2025-04-22T09:48:50"
+  },
+  {
+    "purchaseId": "PUR0059",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 18,
+    "unitCost": 1808.93,
+    "totalCost": 32560.74,
+    "timestamp": "2025-03-26T09:25:19"
+  },
+  {
+    "purchaseId": "PUR0060",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP002",
+    "quantity": 7,
+    "unitCost": 1350.34,
+    "totalCost": 9452.38,
+    "timestamp": "2025-02-20T08:48:27"
+  },
+  {
+    "purchaseId": "PUR0061",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP003",
+    "quantity": 4,
+    "unitCost": 1503.79,
+    "totalCost": 6015.16,
+    "timestamp": "2025-05-04T19:11:06"
+  },
+  {
+    "purchaseId": "PUR0062",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 8,
+    "unitCost": 528.82,
+    "totalCost": 4230.56,
+    "timestamp": "2025-03-29T23:28:40"
+  },
+  {
+    "purchaseId": "PUR0063",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP001",
+    "quantity": 13,
+    "unitCost": 687.1,
+    "totalCost": 8932.3,
+    "timestamp": "2025-05-03T00:00:06"
+  },
+  {
+    "purchaseId": "PUR0064",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 12,
+    "unitCost": 852.28,
+    "totalCost": 10227.36,
+    "timestamp": "2025-05-12T21:17:24"
+  },
+  {
+    "purchaseId": "PUR0065",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 13,
+    "unitCost": 1993.18,
+    "totalCost": 25911.34,
+    "timestamp": "2025-04-15T06:24:36"
+  },
+  {
+    "purchaseId": "PUR0066",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 5,
+    "unitCost": 1031.5,
+    "totalCost": 5157.5,
+    "timestamp": "2025-02-16T06:49:08"
+  },
+  {
+    "purchaseId": "PUR0067",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 11,
+    "unitCost": 1645.31,
+    "totalCost": 18098.41,
+    "timestamp": "2025-02-08T03:20:08"
+  },
+  {
+    "purchaseId": "PUR0068",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 13,
+    "unitCost": 402.71,
+    "totalCost": 5235.23,
+    "timestamp": "2025-05-06T17:41:19"
+  },
+  {
+    "purchaseId": "PUR0069",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 16,
+    "unitCost": 286.56,
+    "totalCost": 4584.96,
+    "timestamp": "2025-03-30T00:44:32"
+  },
+  {
+    "purchaseId": "PUR0070",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP002",
+    "quantity": 2,
+    "unitCost": 1206.44,
+    "totalCost": 2412.88,
+    "timestamp": "2025-04-21T19:59:23"
+  },
+  {
+    "purchaseId": "PUR0071",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP001",
+    "quantity": 1,
+    "unitCost": 1030.54,
+    "totalCost": 1030.54,
+    "timestamp": "2025-05-25T18:59:49"
+  },
+  {
+    "purchaseId": "PUR0072",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 18,
+    "unitCost": 965.08,
+    "totalCost": 17371.44,
+    "timestamp": "2025-05-09T11:15:31"
+  },
+  {
+    "purchaseId": "PUR0073",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP002",
+    "quantity": 19,
+    "unitCost": 1895.97,
+    "totalCost": 36023.43,
+    "timestamp": "2025-02-19T08:25:09"
+  },
+  {
+    "purchaseId": "PUR0074",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP003",
+    "quantity": 6,
+    "unitCost": 352.56,
+    "totalCost": 2115.36,
+    "timestamp": "2025-04-20T03:31:27"
+  },
+  {
+    "purchaseId": "PUR0075",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP001",
+    "quantity": 19,
+    "unitCost": 1892.98,
+    "totalCost": 35966.62,
+    "timestamp": "2025-04-12T01:45:27"
+  },
+  {
+    "purchaseId": "PUR0076",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP002",
+    "quantity": 2,
+    "unitCost": 410.58,
+    "totalCost": 821.16,
+    "timestamp": "2025-02-17T07:38:54"
+  },
+  {
+    "purchaseId": "PUR0077",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP004",
+    "quantity": 3,
+    "unitCost": 1145.72,
+    "totalCost": 3437.16,
+    "timestamp": "2025-05-21T00:56:39"
+  },
+  {
+    "purchaseId": "PUR0078",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP003",
+    "quantity": 17,
+    "unitCost": 787.09,
+    "totalCost": 13380.53,
+    "timestamp": "2025-03-20T08:25:23"
+  },
+  {
+    "purchaseId": "PUR0079",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP004",
+    "quantity": 9,
+    "unitCost": 928.04,
+    "totalCost": 8352.36,
+    "timestamp": "2025-03-18T05:59:18"
+  },
+  {
+    "purchaseId": "PUR0080",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 7,
+    "unitCost": 1419.85,
+    "totalCost": 9938.95,
+    "timestamp": "2025-02-10T22:18:40"
+  },
+  {
+    "purchaseId": "PUR0081",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP002",
+    "quantity": 16,
+    "unitCost": 565.28,
+    "totalCost": 9044.48,
+    "timestamp": "2025-02-17T03:50:24"
+  },
+  {
+    "purchaseId": "PUR0082",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 19,
+    "unitCost": 1424.62,
+    "totalCost": 27067.78,
+    "timestamp": "2025-02-13T07:40:41"
+  },
+  {
+    "purchaseId": "PUR0083",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP002",
+    "quantity": 10,
+    "unitCost": 1847.77,
+    "totalCost": 18477.7,
+    "timestamp": "2025-04-02T09:47:15"
+  },
+  {
+    "purchaseId": "PUR0084",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP001",
+    "quantity": 19,
+    "unitCost": 1891.75,
+    "totalCost": 35943.25,
+    "timestamp": "2025-04-08T05:03:15"
+  },
+  {
+    "purchaseId": "PUR0085",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 5,
+    "unitCost": 378.93,
+    "totalCost": 1894.65,
+    "timestamp": "2025-03-17T21:38:14"
+  },
+  {
+    "purchaseId": "PUR0086",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP001",
+    "quantity": 15,
+    "unitCost": 283.76,
+    "totalCost": 4256.4,
+    "timestamp": "2025-02-14T12:50:50"
+  },
+  {
+    "purchaseId": "PUR0087",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP003",
+    "quantity": 20,
+    "unitCost": 1370.59,
+    "totalCost": 27411.8,
+    "timestamp": "2025-03-06T21:06:09"
+  },
+  {
+    "purchaseId": "PUR0088",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 5,
+    "unitCost": 737.53,
+    "totalCost": 3687.65,
+    "timestamp": "2025-03-23T12:47:32"
+  },
+  {
+    "purchaseId": "PUR0089",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP002",
+    "quantity": 4,
+    "unitCost": 1559.53,
+    "totalCost": 6238.12,
+    "timestamp": "2025-04-02T15:11:19"
+  },
+  {
+    "purchaseId": "PUR0090",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP003",
+    "quantity": 14,
+    "unitCost": 218.26,
+    "totalCost": 3055.64,
+    "timestamp": "2025-04-24T09:27:53"
+  },
+  {
+    "purchaseId": "PUR0091",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP001",
+    "quantity": 3,
+    "unitCost": 1802.85,
+    "totalCost": 5408.55,
+    "timestamp": "2025-03-20T07:33:38"
+  },
+  {
+    "purchaseId": "PUR0092",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP004",
+    "quantity": 20,
+    "unitCost": 1913.05,
+    "totalCost": 38261.0,
+    "timestamp": "2025-04-01T17:30:40"
+  },
+  {
+    "purchaseId": "PUR0093",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP004",
+    "quantity": 11,
+    "unitCost": 757.43,
+    "totalCost": 8331.73,
+    "timestamp": "2025-04-29T13:23:59"
+  },
+  {
+    "purchaseId": "PUR0094",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP002",
+    "quantity": 3,
+    "unitCost": 795.84,
+    "totalCost": 2387.52,
+    "timestamp": "2025-03-18T18:43:06"
+  },
+  {
+    "purchaseId": "PUR0095",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP004",
+    "quantity": 20,
+    "unitCost": 1948.33,
+    "totalCost": 38966.6,
+    "timestamp": "2025-03-15T23:54:52"
+  },
+  {
+    "purchaseId": "PUR0096",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 1,
+    "unitCost": 287.1,
+    "totalCost": 287.1,
+    "timestamp": "2025-05-25T04:17:14"
+  },
+  {
+    "purchaseId": "PUR0097",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP001",
+    "quantity": 1,
+    "unitCost": 149.69,
+    "totalCost": 149.69,
+    "timestamp": "2025-04-20T23:09:12"
+  },
+  {
+    "purchaseId": "PUR0098",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 9,
+    "unitCost": 1876.69,
+    "totalCost": 16890.21,
+    "timestamp": "2025-03-01T22:15:27"
+  },
+  {
+    "purchaseId": "PUR0099",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP003",
+    "quantity": 14,
+    "unitCost": 907.71,
+    "totalCost": 12707.94,
+    "timestamp": "2025-02-18T08:43:48"
+  },
+  {
+    "purchaseId": "PUR0100",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP002",
+    "quantity": 10,
+    "unitCost": 517.03,
+    "totalCost": 5170.3,
+    "timestamp": "2025-03-21T20:31:13"
+  },
+  {
+    "purchaseId": "PUR0101",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 10,
+    "unitCost": 216.32,
+    "totalCost": 2163.2,
+    "timestamp": "2025-04-24T20:20:39"
+  },
+  {
+    "purchaseId": "PUR0102",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP003",
+    "quantity": 8,
+    "unitCost": 625.24,
+    "totalCost": 5001.92,
+    "timestamp": "2025-03-19T21:44:32"
+  },
+  {
+    "purchaseId": "PUR0103",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP003",
+    "quantity": 11,
+    "unitCost": 358.03,
+    "totalCost": 3938.33,
+    "timestamp": "2025-02-18T16:22:15"
+  },
+  {
+    "purchaseId": "PUR0104",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP002",
+    "quantity": 16,
+    "unitCost": 1348.46,
+    "totalCost": 21575.36,
+    "timestamp": "2025-04-08T15:01:37"
+  },
+  {
+    "purchaseId": "PUR0105",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 19,
+    "unitCost": 535.83,
+    "totalCost": 10180.77,
+    "timestamp": "2025-04-25T09:36:25"
+  },
+  {
+    "purchaseId": "PUR0106",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 17,
+    "unitCost": 1687.21,
+    "totalCost": 28682.57,
+    "timestamp": "2025-04-07T00:08:56"
+  },
+  {
+    "purchaseId": "PUR0107",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 19,
+    "unitCost": 1396.72,
+    "totalCost": 26537.68,
+    "timestamp": "2025-02-20T03:12:52"
+  },
+  {
+    "purchaseId": "PUR0108",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 20,
+    "unitCost": 291.45,
+    "totalCost": 5829.0,
+    "timestamp": "2025-04-19T09:34:07"
+  },
+  {
+    "purchaseId": "PUR0109",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP002",
+    "quantity": 16,
+    "unitCost": 129.2,
+    "totalCost": 2067.2,
+    "timestamp": "2025-03-31T12:02:13"
+  },
+  {
+    "purchaseId": "PUR0110",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP001",
+    "quantity": 10,
+    "unitCost": 634.3,
+    "totalCost": 6343.0,
+    "timestamp": "2025-03-06T11:43:58"
+  },
+  {
+    "purchaseId": "PUR0111",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP004",
+    "quantity": 4,
+    "unitCost": 1935.56,
+    "totalCost": 7742.24,
+    "timestamp": "2025-03-24T04:55:07"
+  },
+  {
+    "purchaseId": "PUR0112",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP001",
+    "quantity": 19,
+    "unitCost": 1429.67,
+    "totalCost": 27163.73,
+    "timestamp": "2025-03-31T02:45:11"
+  },
+  {
+    "purchaseId": "PUR0113",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP004",
+    "quantity": 1,
+    "unitCost": 1979.6,
+    "totalCost": 1979.6,
+    "timestamp": "2025-04-14T05:40:00"
+  },
+  {
+    "purchaseId": "PUR0114",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP004",
+    "quantity": 6,
+    "unitCost": 375.95,
+    "totalCost": 2255.7,
+    "timestamp": "2025-04-01T03:21:34"
+  },
+  {
+    "purchaseId": "PUR0115",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 7,
+    "unitCost": 1109.43,
+    "totalCost": 7766.01,
+    "timestamp": "2025-02-21T00:38:38"
+  },
+  {
+    "purchaseId": "PUR0116",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP004",
+    "quantity": 12,
+    "unitCost": 1387.25,
+    "totalCost": 16647.0,
+    "timestamp": "2025-05-23T05:55:39"
+  },
+  {
+    "purchaseId": "PUR0117",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP004",
+    "quantity": 3,
+    "unitCost": 1273.26,
+    "totalCost": 3819.78,
+    "timestamp": "2025-03-08T18:42:50"
+  },
+  {
+    "purchaseId": "PUR0118",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 10,
+    "unitCost": 1375.32,
+    "totalCost": 13753.2,
+    "timestamp": "2025-02-04T19:00:16"
+  },
+  {
+    "purchaseId": "PUR0119",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP004",
+    "quantity": 17,
+    "unitCost": 1303.31,
+    "totalCost": 22156.27,
+    "timestamp": "2025-02-18T14:58:05"
+  },
+  {
+    "purchaseId": "PUR0120",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP004",
+    "quantity": 8,
+    "unitCost": 310.81,
+    "totalCost": 2486.48,
+    "timestamp": "2025-03-19T03:41:14"
+  },
+  {
+    "purchaseId": "PUR0121",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP002",
+    "quantity": 6,
+    "unitCost": 576.64,
+    "totalCost": 3459.84,
+    "timestamp": "2025-04-15T09:39:27"
+  },
+  {
+    "purchaseId": "PUR0122",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP002",
+    "quantity": 4,
+    "unitCost": 929.22,
+    "totalCost": 3716.88,
+    "timestamp": "2025-05-20T15:59:09"
+  },
+  {
+    "purchaseId": "PUR0123",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 12,
+    "unitCost": 556.95,
+    "totalCost": 6683.4,
+    "timestamp": "2025-05-06T19:28:33"
+  },
+  {
+    "purchaseId": "PUR0124",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP001",
+    "quantity": 5,
+    "unitCost": 887.8,
+    "totalCost": 4439.0,
+    "timestamp": "2025-03-16T09:52:40"
+  },
+  {
+    "purchaseId": "PUR0125",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 18,
+    "unitCost": 605.0,
+    "totalCost": 10890.0,
+    "timestamp": "2025-04-23T11:14:45"
+  },
+  {
+    "purchaseId": "PUR0126",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 20,
+    "unitCost": 811.68,
+    "totalCost": 16233.6,
+    "timestamp": "2025-03-15T11:50:25"
+  },
+  {
+    "purchaseId": "PUR0127",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 19,
+    "unitCost": 1808.67,
+    "totalCost": 34364.73,
+    "timestamp": "2025-03-20T04:00:21"
+  },
+  {
+    "purchaseId": "PUR0128",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP002",
+    "quantity": 18,
+    "unitCost": 231.36,
+    "totalCost": 4164.48,
+    "timestamp": "2025-03-26T11:19:20"
+  },
+  {
+    "purchaseId": "PUR0129",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP002",
+    "quantity": 6,
+    "unitCost": 1575.86,
+    "totalCost": 9455.16,
+    "timestamp": "2025-04-16T09:32:44"
+  },
+  {
+    "purchaseId": "PUR0130",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP004",
+    "quantity": 8,
+    "unitCost": 1905.31,
+    "totalCost": 15242.48,
+    "timestamp": "2025-03-06T14:47:44"
+  },
+  {
+    "purchaseId": "PUR0131",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 4,
+    "unitCost": 1926.74,
+    "totalCost": 7706.96,
+    "timestamp": "2025-02-24T07:59:02"
+  },
+  {
+    "purchaseId": "PUR0132",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP002",
+    "quantity": 11,
+    "unitCost": 793.09,
+    "totalCost": 8723.99,
+    "timestamp": "2025-05-15T13:32:04"
+  },
+  {
+    "purchaseId": "PUR0133",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 13,
+    "unitCost": 281.33,
+    "totalCost": 3657.29,
+    "timestamp": "2025-02-19T21:59:41"
+  },
+  {
+    "purchaseId": "PUR0134",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 13,
+    "unitCost": 732.1,
+    "totalCost": 9517.3,
+    "timestamp": "2025-05-09T20:54:51"
+  },
+  {
+    "purchaseId": "PUR0135",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 1,
+    "unitCost": 1982.5,
+    "totalCost": 1982.5,
+    "timestamp": "2025-04-03T06:55:54"
+  },
+  {
+    "purchaseId": "PUR0136",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP001",
+    "quantity": 2,
+    "unitCost": 738.4,
+    "totalCost": 1476.8,
+    "timestamp": "2025-05-09T00:40:14"
+  },
+  {
+    "purchaseId": "PUR0137",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 12,
+    "unitCost": 1208.64,
+    "totalCost": 14503.68,
+    "timestamp": "2025-04-16T06:21:52"
+  },
+  {
+    "purchaseId": "PUR0138",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 1,
+    "unitCost": 1932.75,
+    "totalCost": 1932.75,
+    "timestamp": "2025-05-27T08:34:01"
+  },
+  {
+    "purchaseId": "PUR0139",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP004",
+    "quantity": 7,
+    "unitCost": 1137.14,
+    "totalCost": 7959.98,
+    "timestamp": "2025-05-16T15:54:06"
+  },
+  {
+    "purchaseId": "PUR0140",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP003",
+    "quantity": 8,
+    "unitCost": 1435.56,
+    "totalCost": 11484.48,
+    "timestamp": "2025-04-24T17:14:35"
+  },
+  {
+    "purchaseId": "PUR0141",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 6,
+    "unitCost": 943.59,
+    "totalCost": 5661.54,
+    "timestamp": "2025-02-28T04:46:39"
+  },
+  {
+    "purchaseId": "PUR0142",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 19,
+    "unitCost": 137.86,
+    "totalCost": 2619.34,
+    "timestamp": "2025-03-15T11:47:48"
+  },
+  {
+    "purchaseId": "PUR0143",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 11,
+    "unitCost": 623.16,
+    "totalCost": 6854.76,
+    "timestamp": "2025-05-26T03:57:19"
+  },
+  {
+    "purchaseId": "PUR0144",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP002",
+    "quantity": 12,
+    "unitCost": 1666.15,
+    "totalCost": 19993.8,
+    "timestamp": "2025-02-19T12:28:24"
+  },
+  {
+    "purchaseId": "PUR0145",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 7,
+    "unitCost": 567.37,
+    "totalCost": 3971.59,
+    "timestamp": "2025-04-04T08:35:30"
+  },
+  {
+    "purchaseId": "PUR0146",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 11,
+    "unitCost": 1773.69,
+    "totalCost": 19510.59,
+    "timestamp": "2025-02-16T07:18:01"
+  },
+  {
+    "purchaseId": "PUR0147",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP001",
+    "quantity": 6,
+    "unitCost": 1839.4,
+    "totalCost": 11036.4,
+    "timestamp": "2025-03-20T17:05:41"
+  },
+  {
+    "purchaseId": "PUR0148",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 11,
+    "unitCost": 1916.95,
+    "totalCost": 21086.45,
+    "timestamp": "2025-04-02T03:17:27"
+  },
+  {
+    "purchaseId": "PUR0149",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP001",
+    "quantity": 12,
+    "unitCost": 557.48,
+    "totalCost": 6689.76,
+    "timestamp": "2025-04-06T15:53:49"
+  },
+  {
+    "purchaseId": "PUR0150",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP003",
+    "quantity": 5,
+    "unitCost": 638.19,
+    "totalCost": 3190.95,
+    "timestamp": "2025-02-09T04:10:02"
+  },
+  {
+    "purchaseId": "PUR0151",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP001",
+    "quantity": 19,
+    "unitCost": 1007.79,
+    "totalCost": 19148.01,
+    "timestamp": "2025-04-29T07:15:00"
+  },
+  {
+    "purchaseId": "PUR0152",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 9,
+    "unitCost": 899.72,
+    "totalCost": 8097.48,
+    "timestamp": "2025-05-16T23:23:16"
+  },
+  {
+    "purchaseId": "PUR0153",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP001",
+    "quantity": 2,
+    "unitCost": 462.67,
+    "totalCost": 925.34,
+    "timestamp": "2025-05-08T05:19:52"
+  },
+  {
+    "purchaseId": "PUR0154",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP001",
+    "quantity": 16,
+    "unitCost": 752.04,
+    "totalCost": 12032.64,
+    "timestamp": "2025-02-10T12:10:47"
+  },
+  {
+    "purchaseId": "PUR0155",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP001",
+    "quantity": 13,
+    "unitCost": 774.43,
+    "totalCost": 10067.59,
+    "timestamp": "2025-02-27T02:26:45"
+  },
+  {
+    "purchaseId": "PUR0156",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP003",
+    "quantity": 12,
+    "unitCost": 126.7,
+    "totalCost": 1520.4,
+    "timestamp": "2025-02-02T13:42:44"
+  },
+  {
+    "purchaseId": "PUR0157",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 7,
+    "unitCost": 420.08,
+    "totalCost": 2940.56,
+    "timestamp": "2025-03-28T04:05:47"
+  },
+  {
+    "purchaseId": "PUR0158",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 1,
+    "unitCost": 150.85,
+    "totalCost": 150.85,
+    "timestamp": "2025-04-03T05:14:02"
+  },
+  {
+    "purchaseId": "PUR0159",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP003",
+    "quantity": 20,
+    "unitCost": 1040.99,
+    "totalCost": 20819.8,
+    "timestamp": "2025-03-10T07:26:08"
+  },
+  {
+    "purchaseId": "PUR0160",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP001",
+    "quantity": 18,
+    "unitCost": 1095.05,
+    "totalCost": 19710.9,
+    "timestamp": "2025-02-02T07:07:59"
+  },
+  {
+    "purchaseId": "PUR0161",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP002",
+    "quantity": 18,
+    "unitCost": 1151.59,
+    "totalCost": 20728.62,
+    "timestamp": "2025-05-07T01:00:49"
+  },
+  {
+    "purchaseId": "PUR0162",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP001",
+    "quantity": 10,
+    "unitCost": 909.22,
+    "totalCost": 9092.2,
+    "timestamp": "2025-04-06T00:20:23"
+  },
+  {
+    "purchaseId": "PUR0163",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 2,
+    "unitCost": 1585.49,
+    "totalCost": 3170.98,
+    "timestamp": "2025-03-13T03:14:23"
+  },
+  {
+    "purchaseId": "PUR0164",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 1,
+    "unitCost": 816.09,
+    "totalCost": 816.09,
+    "timestamp": "2025-03-04T03:22:16"
+  },
+  {
+    "purchaseId": "PUR0165",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP004",
+    "quantity": 9,
+    "unitCost": 685.46,
+    "totalCost": 6169.14,
+    "timestamp": "2025-05-30T18:15:01"
+  },
+  {
+    "purchaseId": "PUR0166",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP003",
+    "quantity": 6,
+    "unitCost": 1976.58,
+    "totalCost": 11859.48,
+    "timestamp": "2025-05-24T14:56:35"
+  },
+  {
+    "purchaseId": "PUR0167",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP004",
+    "quantity": 10,
+    "unitCost": 727.22,
+    "totalCost": 7272.2,
+    "timestamp": "2025-02-06T05:51:02"
+  },
+  {
+    "purchaseId": "PUR0168",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP001",
+    "quantity": 19,
+    "unitCost": 1571.86,
+    "totalCost": 29865.34,
+    "timestamp": "2025-05-14T05:53:09"
+  },
+  {
+    "purchaseId": "PUR0169",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 1,
+    "unitCost": 1262.17,
+    "totalCost": 1262.17,
+    "timestamp": "2025-05-16T16:19:34"
+  },
+  {
+    "purchaseId": "PUR0170",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP004",
+    "quantity": 14,
+    "unitCost": 1714.68,
+    "totalCost": 24005.52,
+    "timestamp": "2025-05-28T01:14:17"
+  },
+  {
+    "purchaseId": "PUR0171",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 4,
+    "unitCost": 1302.57,
+    "totalCost": 5210.28,
+    "timestamp": "2025-02-14T16:09:32"
+  },
+  {
+    "purchaseId": "PUR0172",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP004",
+    "quantity": 2,
+    "unitCost": 1325.33,
+    "totalCost": 2650.66,
+    "timestamp": "2025-05-28T00:17:42"
+  },
+  {
+    "purchaseId": "PUR0173",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP002",
+    "quantity": 19,
+    "unitCost": 1803.18,
+    "totalCost": 34260.42,
+    "timestamp": "2025-04-17T06:14:39"
+  },
+  {
+    "purchaseId": "PUR0174",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 12,
+    "unitCost": 1295.31,
+    "totalCost": 15543.72,
+    "timestamp": "2025-02-24T19:56:32"
+  },
+  {
+    "purchaseId": "PUR0175",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP001",
+    "quantity": 10,
+    "unitCost": 1391.27,
+    "totalCost": 13912.7,
+    "timestamp": "2025-04-23T19:16:08"
+  },
+  {
+    "purchaseId": "PUR0176",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP004",
+    "quantity": 3,
+    "unitCost": 1169.79,
+    "totalCost": 3509.37,
+    "timestamp": "2025-03-19T11:12:39"
+  },
+  {
+    "purchaseId": "PUR0177",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 3,
+    "unitCost": 1840.18,
+    "totalCost": 5520.54,
+    "timestamp": "2025-02-14T11:13:25"
+  },
+  {
+    "purchaseId": "PUR0178",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 19,
+    "unitCost": 1716.58,
+    "totalCost": 32615.02,
+    "timestamp": "2025-02-20T14:07:42"
+  },
+  {
+    "purchaseId": "PUR0179",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP002",
+    "quantity": 14,
+    "unitCost": 361.37,
+    "totalCost": 5059.18,
+    "timestamp": "2025-04-25T03:24:43"
+  },
+  {
+    "purchaseId": "PUR0180",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 16,
+    "unitCost": 252.88,
+    "totalCost": 4046.08,
+    "timestamp": "2025-04-21T13:31:40"
+  },
+  {
+    "purchaseId": "PUR0181",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP003",
+    "quantity": 6,
+    "unitCost": 456.17,
+    "totalCost": 2737.02,
+    "timestamp": "2025-03-23T16:23:17"
+  },
+  {
+    "purchaseId": "PUR0182",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP002",
+    "quantity": 7,
+    "unitCost": 331.76,
+    "totalCost": 2322.32,
+    "timestamp": "2025-04-03T16:15:08"
+  },
+  {
+    "purchaseId": "PUR0183",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP001",
+    "quantity": 3,
+    "unitCost": 1000.48,
+    "totalCost": 3001.44,
+    "timestamp": "2025-04-24T17:17:04"
+  },
+  {
+    "purchaseId": "PUR0184",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP004",
+    "quantity": 9,
+    "unitCost": 1993.15,
+    "totalCost": 17938.35,
+    "timestamp": "2025-04-29T11:58:41"
+  },
+  {
+    "purchaseId": "PUR0185",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 3,
+    "unitCost": 1592.77,
+    "totalCost": 4778.31,
+    "timestamp": "2025-04-25T00:32:00"
+  },
+  {
+    "purchaseId": "PUR0186",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 12,
+    "unitCost": 1998.86,
+    "totalCost": 23986.32,
+    "timestamp": "2025-04-17T16:15:44"
+  },
+  {
+    "purchaseId": "PUR0187",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP002",
+    "quantity": 10,
+    "unitCost": 479.63,
+    "totalCost": 4796.3,
+    "timestamp": "2025-03-11T21:38:17"
+  },
+  {
+    "purchaseId": "PUR0188",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 11,
+    "unitCost": 1256.19,
+    "totalCost": 13818.09,
+    "timestamp": "2025-03-17T20:16:22"
+  },
+  {
+    "purchaseId": "PUR0189",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 17,
+    "unitCost": 1183.7,
+    "totalCost": 20122.9,
+    "timestamp": "2025-02-03T16:43:23"
+  },
+  {
+    "purchaseId": "PUR0190",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 18,
+    "unitCost": 526.13,
+    "totalCost": 9470.34,
+    "timestamp": "2025-02-15T18:28:46"
+  },
+  {
+    "purchaseId": "PUR0191",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP004",
+    "quantity": 4,
+    "unitCost": 212.13,
+    "totalCost": 848.52,
+    "timestamp": "2025-05-03T06:03:17"
+  },
+  {
+    "purchaseId": "PUR0192",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP003",
+    "quantity": 6,
+    "unitCost": 1806.83,
+    "totalCost": 10840.98,
+    "timestamp": "2025-04-15T15:15:17"
+  },
+  {
+    "purchaseId": "PUR0193",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP004",
+    "quantity": 18,
+    "unitCost": 1533.34,
+    "totalCost": 27600.12,
+    "timestamp": "2025-04-10T20:11:44"
+  },
+  {
+    "purchaseId": "PUR0194",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 11,
+    "unitCost": 1798.33,
+    "totalCost": 19781.63,
+    "timestamp": "2025-04-05T00:18:53"
+  },
+  {
+    "purchaseId": "PUR0195",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP004",
+    "quantity": 17,
+    "unitCost": 1808.74,
+    "totalCost": 30748.58,
+    "timestamp": "2025-02-20T23:59:00"
+  },
+  {
+    "purchaseId": "PUR0196",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 18,
+    "unitCost": 429.65,
+    "totalCost": 7733.7,
+    "timestamp": "2025-02-23T07:30:55"
+  },
+  {
+    "purchaseId": "PUR0197",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP004",
+    "quantity": 5,
+    "unitCost": 437.85,
+    "totalCost": 2189.25,
+    "timestamp": "2025-03-27T09:50:29"
+  },
+  {
+    "purchaseId": "PUR0198",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP004",
+    "quantity": 3,
+    "unitCost": 1620.74,
+    "totalCost": 4862.22,
+    "timestamp": "2025-04-06T23:36:45"
+  },
+  {
+    "purchaseId": "PUR0199",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 16,
+    "unitCost": 361.76,
+    "totalCost": 5788.16,
+    "timestamp": "2025-04-17T17:07:02"
+  },
+  {
+    "purchaseId": "PUR0200",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 2,
+    "unitCost": 914.43,
+    "totalCost": 1828.86,
+    "timestamp": "2025-03-16T00:42:05"
+  },
+  {
+    "purchaseId": "PUR0201",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP002",
+    "quantity": 15,
+    "unitCost": 1465.05,
+    "totalCost": 21975.75,
+    "timestamp": "2025-02-12T21:17:10"
+  },
+  {
+    "purchaseId": "PUR0202",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 5,
+    "unitCost": 1021.84,
+    "totalCost": 5109.2,
+    "timestamp": "2025-02-28T13:05:54"
+  },
+  {
+    "purchaseId": "PUR0203",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 2,
+    "unitCost": 303.77,
+    "totalCost": 607.54,
+    "timestamp": "2025-04-06T03:52:14"
+  },
+  {
+    "purchaseId": "PUR0204",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 2,
+    "unitCost": 1929.51,
+    "totalCost": 3859.02,
+    "timestamp": "2025-05-24T15:05:34"
+  },
+  {
+    "purchaseId": "PUR0205",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP003",
+    "quantity": 13,
+    "unitCost": 221.85,
+    "totalCost": 2884.05,
+    "timestamp": "2025-03-17T20:35:45"
+  },
+  {
+    "purchaseId": "PUR0206",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP002",
+    "quantity": 11,
+    "unitCost": 494.58,
+    "totalCost": 5440.38,
+    "timestamp": "2025-02-03T03:12:01"
+  },
+  {
+    "purchaseId": "PUR0207",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP003",
+    "quantity": 16,
+    "unitCost": 1810.92,
+    "totalCost": 28974.72,
+    "timestamp": "2025-03-08T11:00:36"
+  },
+  {
+    "purchaseId": "PUR0208",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP001",
+    "quantity": 16,
+    "unitCost": 912.93,
+    "totalCost": 14606.88,
+    "timestamp": "2025-05-16T16:06:22"
+  },
+  {
+    "purchaseId": "PUR0209",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP002",
+    "quantity": 9,
+    "unitCost": 1138.86,
+    "totalCost": 10249.74,
+    "timestamp": "2025-04-29T21:11:38"
+  },
+  {
+    "purchaseId": "PUR0210",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP004",
+    "quantity": 9,
+    "unitCost": 427.79,
+    "totalCost": 3850.11,
+    "timestamp": "2025-05-25T18:23:43"
+  },
+  {
+    "purchaseId": "PUR0211",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP004",
+    "quantity": 11,
+    "unitCost": 732.33,
+    "totalCost": 8055.63,
+    "timestamp": "2025-02-16T06:09:36"
+  },
+  {
+    "purchaseId": "PUR0212",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 7,
+    "unitCost": 668.23,
+    "totalCost": 4677.61,
+    "timestamp": "2025-02-11T22:56:39"
+  },
+  {
+    "purchaseId": "PUR0213",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 10,
+    "unitCost": 804.84,
+    "totalCost": 8048.4,
+    "timestamp": "2025-02-14T15:46:04"
+  },
+  {
+    "purchaseId": "PUR0214",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP001",
+    "quantity": 15,
+    "unitCost": 953.05,
+    "totalCost": 14295.75,
+    "timestamp": "2025-04-30T02:29:51"
+  },
+  {
+    "purchaseId": "PUR0215",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 20,
+    "unitCost": 753.65,
+    "totalCost": 15073.0,
+    "timestamp": "2025-02-27T00:38:03"
+  },
+  {
+    "purchaseId": "PUR0216",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP002",
+    "quantity": 3,
+    "unitCost": 1192.9,
+    "totalCost": 3578.7,
+    "timestamp": "2025-03-22T08:05:59"
+  },
+  {
+    "purchaseId": "PUR0217",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP002",
+    "quantity": 6,
+    "unitCost": 1016.86,
+    "totalCost": 6101.16,
+    "timestamp": "2025-05-13T21:30:19"
+  },
+  {
+    "purchaseId": "PUR0218",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP004",
+    "quantity": 15,
+    "unitCost": 1111.69,
+    "totalCost": 16675.35,
+    "timestamp": "2025-03-02T23:00:40"
+  },
+  {
+    "purchaseId": "PUR0219",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 6,
+    "unitCost": 1517.05,
+    "totalCost": 9102.3,
+    "timestamp": "2025-02-13T22:48:08"
+  },
+  {
+    "purchaseId": "PUR0220",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 20,
+    "unitCost": 1672.03,
+    "totalCost": 33440.6,
+    "timestamp": "2025-02-21T13:55:50"
+  },
+  {
+    "purchaseId": "PUR0221",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP004",
+    "quantity": 5,
+    "unitCost": 242.25,
+    "totalCost": 1211.25,
+    "timestamp": "2025-03-26T11:29:06"
+  },
+  {
+    "purchaseId": "PUR0222",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP002",
+    "quantity": 2,
+    "unitCost": 282.9,
+    "totalCost": 565.8,
+    "timestamp": "2025-02-11T00:21:03"
+  },
+  {
+    "purchaseId": "PUR0223",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 19,
+    "unitCost": 1303.46,
+    "totalCost": 24765.74,
+    "timestamp": "2025-03-02T11:02:08"
+  },
+  {
+    "purchaseId": "PUR0224",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 3,
+    "unitCost": 1860.87,
+    "totalCost": 5582.61,
+    "timestamp": "2025-03-18T15:53:35"
+  },
+  {
+    "purchaseId": "PUR0225",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP001",
+    "quantity": 18,
+    "unitCost": 260.33,
+    "totalCost": 4685.94,
+    "timestamp": "2025-03-13T13:52:26"
+  },
+  {
+    "purchaseId": "PUR0226",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 11,
+    "unitCost": 1595.15,
+    "totalCost": 17546.65,
+    "timestamp": "2025-03-13T21:56:01"
+  },
+  {
+    "purchaseId": "PUR0227",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP004",
+    "quantity": 16,
+    "unitCost": 1451.5,
+    "totalCost": 23224.0,
+    "timestamp": "2025-05-06T19:22:26"
+  },
+  {
+    "purchaseId": "PUR0228",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 12,
+    "unitCost": 1006.41,
+    "totalCost": 12076.92,
+    "timestamp": "2025-04-24T17:50:21"
+  },
+  {
+    "purchaseId": "PUR0229",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP004",
+    "quantity": 15,
+    "unitCost": 957.39,
+    "totalCost": 14360.85,
+    "timestamp": "2025-05-25T13:04:48"
+  },
+  {
+    "purchaseId": "PUR0230",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 8,
+    "unitCost": 1875.88,
+    "totalCost": 15007.04,
+    "timestamp": "2025-02-13T06:39:01"
+  },
+  {
+    "purchaseId": "PUR0231",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP002",
+    "quantity": 9,
+    "unitCost": 1845.79,
+    "totalCost": 16612.11,
+    "timestamp": "2025-04-10T19:45:47"
+  },
+  {
+    "purchaseId": "PUR0232",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 15,
+    "unitCost": 550.25,
+    "totalCost": 8253.75,
+    "timestamp": "2025-03-07T07:36:19"
+  },
+  {
+    "purchaseId": "PUR0233",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP002",
+    "quantity": 1,
+    "unitCost": 672.76,
+    "totalCost": 672.76,
+    "timestamp": "2025-04-30T13:26:20"
+  },
+  {
+    "purchaseId": "PUR0234",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 16,
+    "unitCost": 1586.14,
+    "totalCost": 25378.24,
+    "timestamp": "2025-02-21T13:11:54"
+  },
+  {
+    "purchaseId": "PUR0235",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP004",
+    "quantity": 12,
+    "unitCost": 1110.26,
+    "totalCost": 13323.12,
+    "timestamp": "2025-04-01T12:30:58"
+  },
+  {
+    "purchaseId": "PUR0236",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 3,
+    "unitCost": 859.91,
+    "totalCost": 2579.73,
+    "timestamp": "2025-04-02T07:35:26"
+  },
+  {
+    "purchaseId": "PUR0237",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP004",
+    "quantity": 9,
+    "unitCost": 1091.54,
+    "totalCost": 9823.86,
+    "timestamp": "2025-03-13T03:06:49"
+  },
+  {
+    "purchaseId": "PUR0238",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP001",
+    "quantity": 10,
+    "unitCost": 1606.46,
+    "totalCost": 16064.6,
+    "timestamp": "2025-04-07T16:58:22"
+  },
+  {
+    "purchaseId": "PUR0239",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 8,
+    "unitCost": 182.61,
+    "totalCost": 1460.88,
+    "timestamp": "2025-03-23T13:50:29"
+  },
+  {
+    "purchaseId": "PUR0240",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP001",
+    "quantity": 9,
+    "unitCost": 1536.31,
+    "totalCost": 13826.79,
+    "timestamp": "2025-04-12T04:35:26"
+  },
+  {
+    "purchaseId": "PUR0241",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP004",
+    "quantity": 5,
+    "unitCost": 1641.37,
+    "totalCost": 8206.85,
+    "timestamp": "2025-05-04T05:45:24"
+  },
+  {
+    "purchaseId": "PUR0242",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 2,
+    "unitCost": 1779.32,
+    "totalCost": 3558.64,
+    "timestamp": "2025-02-02T07:42:22"
+  },
+  {
+    "purchaseId": "PUR0243",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP004",
+    "quantity": 6,
+    "unitCost": 947.01,
+    "totalCost": 5682.06,
+    "timestamp": "2025-05-04T19:02:08"
+  },
+  {
+    "purchaseId": "PUR0244",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP003",
+    "quantity": 2,
+    "unitCost": 161.1,
+    "totalCost": 322.2,
+    "timestamp": "2025-03-21T06:34:41"
+  },
+  {
+    "purchaseId": "PUR0245",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 11,
+    "unitCost": 281.15,
+    "totalCost": 3092.65,
+    "timestamp": "2025-04-28T18:45:04"
+  },
+  {
+    "purchaseId": "PUR0246",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP003",
+    "quantity": 17,
+    "unitCost": 671.16,
+    "totalCost": 11409.72,
+    "timestamp": "2025-03-14T17:49:56"
+  },
+  {
+    "purchaseId": "PUR0247",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP003",
+    "quantity": 11,
+    "unitCost": 363.33,
+    "totalCost": 3996.63,
+    "timestamp": "2025-05-13T15:27:29"
+  },
+  {
+    "purchaseId": "PUR0248",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 11,
+    "unitCost": 393.93,
+    "totalCost": 4333.23,
+    "timestamp": "2025-02-08T13:56:42"
+  },
+  {
+    "purchaseId": "PUR0249",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 12,
+    "unitCost": 1785.73,
+    "totalCost": 21428.76,
+    "timestamp": "2025-05-18T08:29:16"
+  },
+  {
+    "purchaseId": "PUR0250",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP003",
+    "quantity": 8,
+    "unitCost": 100.36,
+    "totalCost": 802.88,
+    "timestamp": "2025-04-28T01:22:46"
+  },
+  {
+    "purchaseId": "PUR0251",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 3,
+    "unitCost": 1875.06,
+    "totalCost": 5625.18,
+    "timestamp": "2025-03-10T04:56:39"
+  },
+  {
+    "purchaseId": "PUR0252",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP001",
+    "quantity": 19,
+    "unitCost": 1222.24,
+    "totalCost": 23222.56,
+    "timestamp": "2025-04-25T11:53:52"
+  },
+  {
+    "purchaseId": "PUR0253",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 14,
+    "unitCost": 933.77,
+    "totalCost": 13072.78,
+    "timestamp": "2025-04-23T23:31:33"
+  },
+  {
+    "purchaseId": "PUR0254",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP001",
+    "quantity": 7,
+    "unitCost": 261.26,
+    "totalCost": 1828.82,
+    "timestamp": "2025-04-09T19:12:58"
+  },
+  {
+    "purchaseId": "PUR0255",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP003",
+    "quantity": 17,
+    "unitCost": 483.15,
+    "totalCost": 8213.55,
+    "timestamp": "2025-03-10T07:59:24"
+  },
+  {
+    "purchaseId": "PUR0256",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP004",
+    "quantity": 12,
+    "unitCost": 920.27,
+    "totalCost": 11043.24,
+    "timestamp": "2025-04-11T20:51:29"
+  },
+  {
+    "purchaseId": "PUR0257",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP003",
+    "quantity": 17,
+    "unitCost": 773.57,
+    "totalCost": 13150.69,
+    "timestamp": "2025-03-22T19:58:57"
+  },
+  {
+    "purchaseId": "PUR0258",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP001",
+    "quantity": 3,
+    "unitCost": 262.5,
+    "totalCost": 787.5,
+    "timestamp": "2025-03-18T17:51:43"
+  },
+  {
+    "purchaseId": "PUR0259",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP004",
+    "quantity": 7,
+    "unitCost": 514.24,
+    "totalCost": 3599.68,
+    "timestamp": "2025-05-26T18:47:29"
+  },
+  {
+    "purchaseId": "PUR0260",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP004",
+    "quantity": 1,
+    "unitCost": 1067.08,
+    "totalCost": 1067.08,
+    "timestamp": "2025-04-07T07:35:07"
+  },
+  {
+    "purchaseId": "PUR0261",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP002",
+    "quantity": 4,
+    "unitCost": 1164.6,
+    "totalCost": 4658.4,
+    "timestamp": "2025-02-20T04:38:47"
+  },
+  {
+    "purchaseId": "PUR0262",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 7,
+    "unitCost": 1573.34,
+    "totalCost": 11013.38,
+    "timestamp": "2025-05-14T08:48:56"
+  },
+  {
+    "purchaseId": "PUR0263",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 13,
+    "unitCost": 709.73,
+    "totalCost": 9226.49,
+    "timestamp": "2025-02-16T16:37:54"
+  },
+  {
+    "purchaseId": "PUR0264",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP003",
+    "quantity": 20,
+    "unitCost": 1315.34,
+    "totalCost": 26306.8,
+    "timestamp": "2025-04-13T14:03:13"
+  },
+  {
+    "purchaseId": "PUR0265",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP002",
+    "quantity": 6,
+    "unitCost": 1627.97,
+    "totalCost": 9767.82,
+    "timestamp": "2025-05-07T06:15:52"
+  },
+  {
+    "purchaseId": "PUR0266",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP002",
+    "quantity": 5,
+    "unitCost": 268.49,
+    "totalCost": 1342.45,
+    "timestamp": "2025-03-25T10:16:33"
+  },
+  {
+    "purchaseId": "PUR0267",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP001",
+    "quantity": 1,
+    "unitCost": 698.97,
+    "totalCost": 698.97,
+    "timestamp": "2025-05-03T13:49:52"
+  },
+  {
+    "purchaseId": "PUR0268",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP004",
+    "quantity": 2,
+    "unitCost": 1383.36,
+    "totalCost": 2766.72,
+    "timestamp": "2025-05-06T00:55:42"
+  },
+  {
+    "purchaseId": "PUR0269",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP002",
+    "quantity": 11,
+    "unitCost": 133.55,
+    "totalCost": 1469.05,
+    "timestamp": "2025-02-08T23:58:16"
+  },
+  {
+    "purchaseId": "PUR0270",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP003",
+    "quantity": 1,
+    "unitCost": 569.87,
+    "totalCost": 569.87,
+    "timestamp": "2025-05-05T04:44:37"
+  },
+  {
+    "purchaseId": "PUR0271",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP003",
+    "quantity": 12,
+    "unitCost": 213.72,
+    "totalCost": 2564.64,
+    "timestamp": "2025-04-28T13:20:37"
+  },
+  {
+    "purchaseId": "PUR0272",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP003",
+    "quantity": 16,
+    "unitCost": 1080.49,
+    "totalCost": 17287.84,
+    "timestamp": "2025-04-09T18:11:53"
+  },
+  {
+    "purchaseId": "PUR0273",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP004",
+    "quantity": 18,
+    "unitCost": 135.44,
+    "totalCost": 2437.92,
+    "timestamp": "2025-05-11T22:45:05"
+  },
+  {
+    "purchaseId": "PUR0274",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 14,
+    "unitCost": 1135.42,
+    "totalCost": 15895.88,
+    "timestamp": "2025-03-16T21:02:36"
+  },
+  {
+    "purchaseId": "PUR0275",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 3,
+    "unitCost": 557.28,
+    "totalCost": 1671.84,
+    "timestamp": "2025-04-15T17:32:32"
+  },
+  {
+    "purchaseId": "PUR0276",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP004",
+    "quantity": 17,
+    "unitCost": 1087.65,
+    "totalCost": 18490.05,
+    "timestamp": "2025-02-14T06:47:16"
+  },
+  {
+    "purchaseId": "PUR0277",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP003",
+    "quantity": 15,
+    "unitCost": 685.54,
+    "totalCost": 10283.1,
+    "timestamp": "2025-04-06T02:58:00"
+  },
+  {
+    "purchaseId": "PUR0278",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP004",
+    "quantity": 11,
+    "unitCost": 1317.78,
+    "totalCost": 14495.58,
+    "timestamp": "2025-02-05T18:59:26"
+  },
+  {
+    "purchaseId": "PUR0279",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP004",
+    "quantity": 13,
+    "unitCost": 360.63,
+    "totalCost": 4688.19,
+    "timestamp": "2025-04-01T14:15:13"
+  },
+  {
+    "purchaseId": "PUR0280",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP003",
+    "quantity": 20,
+    "unitCost": 1180.39,
+    "totalCost": 23607.8,
+    "timestamp": "2025-02-02T16:40:57"
+  },
+  {
+    "purchaseId": "PUR0281",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 14,
+    "unitCost": 862.55,
+    "totalCost": 12075.7,
+    "timestamp": "2025-05-09T21:35:23"
+  },
+  {
+    "purchaseId": "PUR0282",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP002",
+    "quantity": 1,
+    "unitCost": 1528.85,
+    "totalCost": 1528.85,
+    "timestamp": "2025-05-04T13:35:14"
+  },
+  {
+    "purchaseId": "PUR0283",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 17,
+    "unitCost": 590.22,
+    "totalCost": 10033.74,
+    "timestamp": "2025-04-09T17:34:55"
+  },
+  {
+    "purchaseId": "PUR0284",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 12,
+    "unitCost": 266.61,
+    "totalCost": 3199.32,
+    "timestamp": "2025-02-13T10:16:47"
+  },
+  {
+    "purchaseId": "PUR0285",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP001",
+    "quantity": 2,
+    "unitCost": 610.57,
+    "totalCost": 1221.14,
+    "timestamp": "2025-05-19T17:21:40"
+  },
+  {
+    "purchaseId": "PUR0286",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP002",
+    "quantity": 10,
+    "unitCost": 109.44,
+    "totalCost": 1094.4,
+    "timestamp": "2025-04-10T17:42:23"
+  },
+  {
+    "purchaseId": "PUR0287",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 8,
+    "unitCost": 203.59,
+    "totalCost": 1628.72,
+    "timestamp": "2025-03-13T19:40:22"
+  },
+  {
+    "purchaseId": "PUR0288",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 7,
+    "unitCost": 1229.98,
+    "totalCost": 8609.86,
+    "timestamp": "2025-05-23T16:36:54"
+  },
+  {
+    "purchaseId": "PUR0289",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP004",
+    "quantity": 16,
+    "unitCost": 472.2,
+    "totalCost": 7555.2,
+    "timestamp": "2025-04-20T17:51:44"
+  },
+  {
+    "purchaseId": "PUR0290",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP004",
+    "quantity": 9,
+    "unitCost": 1582.27,
+    "totalCost": 14240.43,
+    "timestamp": "2025-05-20T20:30:47"
+  },
+  {
+    "purchaseId": "PUR0291",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP003",
+    "quantity": 3,
+    "unitCost": 492.1,
+    "totalCost": 1476.3,
+    "timestamp": "2025-03-02T07:43:39"
+  },
+  {
+    "purchaseId": "PUR0292",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 13,
+    "unitCost": 141.11,
+    "totalCost": 1834.43,
+    "timestamp": "2025-05-16T17:09:20"
+  },
+  {
+    "purchaseId": "PUR0293",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP004",
+    "quantity": 11,
+    "unitCost": 1870.23,
+    "totalCost": 20572.53,
+    "timestamp": "2025-03-05T11:30:24"
+  },
+  {
+    "purchaseId": "PUR0294",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP002",
+    "quantity": 4,
+    "unitCost": 1213.92,
+    "totalCost": 4855.68,
+    "timestamp": "2025-04-17T10:19:58"
+  },
+  {
+    "purchaseId": "PUR0295",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 12,
+    "unitCost": 1443.94,
+    "totalCost": 17327.28,
+    "timestamp": "2025-04-17T13:14:23"
+  },
+  {
+    "purchaseId": "PUR0296",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP004",
+    "quantity": 1,
+    "unitCost": 794.39,
+    "totalCost": 794.39,
+    "timestamp": "2025-02-22T11:29:55"
+  },
+  {
+    "purchaseId": "PUR0297",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP004",
+    "quantity": 5,
+    "unitCost": 213.27,
+    "totalCost": 1066.35,
+    "timestamp": "2025-05-20T13:54:25"
+  },
+  {
+    "purchaseId": "PUR0298",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP004",
+    "quantity": 16,
+    "unitCost": 1439.52,
+    "totalCost": 23032.32,
+    "timestamp": "2025-05-07T03:26:06"
+  },
+  {
+    "purchaseId": "PUR0299",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP004",
+    "quantity": 4,
+    "unitCost": 1213.55,
+    "totalCost": 4854.2,
+    "timestamp": "2025-05-01T11:58:17"
+  },
+  {
+    "purchaseId": "PUR0300",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP002",
+    "quantity": 9,
+    "unitCost": 822.0,
+    "totalCost": 7398.0,
+    "timestamp": "2025-05-11T19:27:55"
+  },
+  {
+    "purchaseId": "PUR0301",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP003",
+    "quantity": 16,
+    "unitCost": 1256.34,
+    "totalCost": 20101.44,
+    "timestamp": "2025-05-04T06:50:25"
+  },
+  {
+    "purchaseId": "PUR0302",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP002",
+    "quantity": 17,
+    "unitCost": 1714.89,
+    "totalCost": 29153.13,
+    "timestamp": "2025-05-02T00:10:13"
+  },
+  {
+    "purchaseId": "PUR0303",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP004",
+    "quantity": 16,
+    "unitCost": 1801.07,
+    "totalCost": 28817.12,
+    "timestamp": "2025-04-28T10:33:27"
+  },
+  {
+    "purchaseId": "PUR0304",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 6,
+    "unitCost": 1693.33,
+    "totalCost": 10159.98,
+    "timestamp": "2025-04-15T08:15:43"
+  },
+  {
+    "purchaseId": "PUR0305",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP003",
+    "quantity": 2,
+    "unitCost": 491.27,
+    "totalCost": 982.54,
+    "timestamp": "2025-03-29T13:49:51"
+  },
+  {
+    "purchaseId": "PUR0306",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP004",
+    "quantity": 20,
+    "unitCost": 572.5,
+    "totalCost": 11450.0,
+    "timestamp": "2025-04-21T06:54:05"
+  },
+  {
+    "purchaseId": "PUR0307",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP002",
+    "quantity": 10,
+    "unitCost": 1888.01,
+    "totalCost": 18880.1,
+    "timestamp": "2025-05-13T11:47:53"
+  },
+  {
+    "purchaseId": "PUR0308",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP004",
+    "quantity": 11,
+    "unitCost": 563.68,
+    "totalCost": 6200.48,
+    "timestamp": "2025-05-14T02:55:42"
+  },
+  {
+    "purchaseId": "PUR0309",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 8,
+    "unitCost": 1320.88,
+    "totalCost": 10567.04,
+    "timestamp": "2025-05-20T21:59:16"
+  },
+  {
+    "purchaseId": "PUR0310",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 17,
+    "unitCost": 772.89,
+    "totalCost": 13139.13,
+    "timestamp": "2025-05-06T12:13:07"
+  },
+  {
+    "purchaseId": "PUR0311",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP003",
+    "quantity": 16,
+    "unitCost": 1609.05,
+    "totalCost": 25744.8,
+    "timestamp": "2025-05-10T12:31:36"
+  },
+  {
+    "purchaseId": "PUR0312",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 17,
+    "unitCost": 1069.02,
+    "totalCost": 18173.34,
+    "timestamp": "2025-05-05T12:12:03"
+  },
+  {
+    "purchaseId": "PUR0313",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP004",
+    "quantity": 8,
+    "unitCost": 1955.67,
+    "totalCost": 15645.36,
+    "timestamp": "2025-02-20T03:22:54"
+  },
+  {
+    "purchaseId": "PUR0314",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP003",
+    "quantity": 17,
+    "unitCost": 1152.73,
+    "totalCost": 19596.41,
+    "timestamp": "2025-03-06T07:56:23"
+  },
+  {
+    "purchaseId": "PUR0315",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 2,
+    "unitCost": 1752.9,
+    "totalCost": 3505.8,
+    "timestamp": "2025-02-06T04:31:43"
+  },
+  {
+    "purchaseId": "PUR0316",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 9,
+    "unitCost": 210.48,
+    "totalCost": 1894.32,
+    "timestamp": "2025-02-24T00:54:30"
+  },
+  {
+    "purchaseId": "PUR0317",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP004",
+    "quantity": 9,
+    "unitCost": 1359.54,
+    "totalCost": 12235.86,
+    "timestamp": "2025-03-20T11:41:53"
+  },
+  {
+    "purchaseId": "PUR0318",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP003",
+    "quantity": 7,
+    "unitCost": 1888.97,
+    "totalCost": 13222.79,
+    "timestamp": "2025-04-26T07:45:42"
+  },
+  {
+    "purchaseId": "PUR0319",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP002",
+    "quantity": 10,
+    "unitCost": 392.1,
+    "totalCost": 3921.0,
+    "timestamp": "2025-03-14T11:50:16"
+  },
+  {
+    "purchaseId": "PUR0320",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP001",
+    "quantity": 15,
+    "unitCost": 561.05,
+    "totalCost": 8415.75,
+    "timestamp": "2025-04-25T22:15:56"
+  },
+  {
+    "purchaseId": "PUR0321",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP004",
+    "quantity": 3,
+    "unitCost": 1231.45,
+    "totalCost": 3694.35,
+    "timestamp": "2025-03-15T21:19:24"
+  },
+  {
+    "purchaseId": "PUR0322",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP001",
+    "quantity": 13,
+    "unitCost": 1553.92,
+    "totalCost": 20200.96,
+    "timestamp": "2025-05-04T20:45:12"
+  },
+  {
+    "purchaseId": "PUR0323",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP001",
+    "quantity": 7,
+    "unitCost": 1888.61,
+    "totalCost": 13220.27,
+    "timestamp": "2025-05-04T14:58:02"
+  },
+  {
+    "purchaseId": "PUR0324",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP003",
+    "quantity": 1,
+    "unitCost": 302.91,
+    "totalCost": 302.91,
+    "timestamp": "2025-03-20T20:14:41"
+  },
+  {
+    "purchaseId": "PUR0325",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 11,
+    "unitCost": 1879.51,
+    "totalCost": 20674.61,
+    "timestamp": "2025-03-16T09:03:07"
+  },
+  {
+    "purchaseId": "PUR0326",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 9,
+    "unitCost": 1359.71,
+    "totalCost": 12237.39,
+    "timestamp": "2025-03-09T02:49:07"
+  },
+  {
+    "purchaseId": "PUR0327",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP004",
+    "quantity": 11,
+    "unitCost": 668.29,
+    "totalCost": 7351.19,
+    "timestamp": "2025-05-03T15:22:19"
+  },
+  {
+    "purchaseId": "PUR0328",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP001",
+    "quantity": 15,
+    "unitCost": 1720.76,
+    "totalCost": 25811.4,
+    "timestamp": "2025-02-14T09:19:38"
+  },
+  {
+    "purchaseId": "PUR0329",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 11,
+    "unitCost": 951.88,
+    "totalCost": 10470.68,
+    "timestamp": "2025-05-14T06:56:28"
+  },
+  {
+    "purchaseId": "PUR0330",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP004",
+    "quantity": 18,
+    "unitCost": 1473.67,
+    "totalCost": 26526.06,
+    "timestamp": "2025-04-24T13:11:46"
+  },
+  {
+    "purchaseId": "PUR0331",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP001",
+    "quantity": 19,
+    "unitCost": 961.41,
+    "totalCost": 18266.79,
+    "timestamp": "2025-05-06T08:42:29"
+  },
+  {
+    "purchaseId": "PUR0332",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP003",
+    "quantity": 2,
+    "unitCost": 202.29,
+    "totalCost": 404.58,
+    "timestamp": "2025-02-23T15:19:35"
+  },
+  {
+    "purchaseId": "PUR0333",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP003",
+    "quantity": 10,
+    "unitCost": 1059.11,
+    "totalCost": 10591.1,
+    "timestamp": "2025-02-08T13:18:30"
+  },
+  {
+    "purchaseId": "PUR0334",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 4,
+    "unitCost": 186.4,
+    "totalCost": 745.6,
+    "timestamp": "2025-05-22T04:28:47"
+  },
+  {
+    "purchaseId": "PUR0335",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 2,
+    "unitCost": 877.41,
+    "totalCost": 1754.82,
+    "timestamp": "2025-04-28T09:19:35"
+  },
+  {
+    "purchaseId": "PUR0336",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP002",
+    "quantity": 20,
+    "unitCost": 1859.77,
+    "totalCost": 37195.4,
+    "timestamp": "2025-02-05T03:18:14"
+  },
+  {
+    "purchaseId": "PUR0337",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP004",
+    "quantity": 19,
+    "unitCost": 1153.81,
+    "totalCost": 21922.39,
+    "timestamp": "2025-02-24T09:02:32"
+  },
+  {
+    "purchaseId": "PUR0338",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP002",
+    "quantity": 16,
+    "unitCost": 740.37,
+    "totalCost": 11845.92,
+    "timestamp": "2025-02-11T21:49:28"
+  },
+  {
+    "purchaseId": "PUR0339",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 20,
+    "unitCost": 1455.24,
+    "totalCost": 29104.8,
+    "timestamp": "2025-03-21T08:05:37"
+  },
+  {
+    "purchaseId": "PUR0340",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP001",
+    "quantity": 16,
+    "unitCost": 1467.37,
+    "totalCost": 23477.92,
+    "timestamp": "2025-05-24T09:19:31"
+  },
+  {
+    "purchaseId": "PUR0341",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP004",
+    "quantity": 5,
+    "unitCost": 841.78,
+    "totalCost": 4208.9,
+    "timestamp": "2025-02-25T01:12:03"
+  },
+  {
+    "purchaseId": "PUR0342",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP004",
+    "quantity": 1,
+    "unitCost": 1551.27,
+    "totalCost": 1551.27,
+    "timestamp": "2025-05-12T18:25:17"
+  },
+  {
+    "purchaseId": "PUR0343",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP003",
+    "quantity": 19,
+    "unitCost": 913.4,
+    "totalCost": 17354.6,
+    "timestamp": "2025-02-10T04:55:39"
+  },
+  {
+    "purchaseId": "PUR0344",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP001",
+    "quantity": 10,
+    "unitCost": 1294.33,
+    "totalCost": 12943.3,
+    "timestamp": "2025-05-16T19:04:25"
+  },
+  {
+    "purchaseId": "PUR0345",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 14,
+    "unitCost": 1489.38,
+    "totalCost": 20851.32,
+    "timestamp": "2025-03-01T22:17:49"
+  },
+  {
+    "purchaseId": "PUR0346",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP001",
+    "quantity": 1,
+    "unitCost": 1027.48,
+    "totalCost": 1027.48,
+    "timestamp": "2025-03-07T17:00:17"
+  },
+  {
+    "purchaseId": "PUR0347",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP004",
+    "quantity": 14,
+    "unitCost": 1685.84,
+    "totalCost": 23601.76,
+    "timestamp": "2025-03-17T09:50:46"
+  },
+  {
+    "purchaseId": "PUR0348",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP004",
+    "quantity": 10,
+    "unitCost": 1968.45,
+    "totalCost": 19684.5,
+    "timestamp": "2025-05-04T22:11:47"
+  },
+  {
+    "purchaseId": "PUR0349",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP004",
+    "quantity": 2,
+    "unitCost": 1094.05,
+    "totalCost": 2188.1,
+    "timestamp": "2025-02-25T15:30:27"
+  },
+  {
+    "purchaseId": "PUR0350",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 9,
+    "unitCost": 458.81,
+    "totalCost": 4129.29,
+    "timestamp": "2025-02-16T13:57:00"
+  },
+  {
+    "purchaseId": "PUR0351",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP001",
+    "quantity": 18,
+    "unitCost": 1170.2,
+    "totalCost": 21063.6,
+    "timestamp": "2025-03-20T08:54:07"
+  },
+  {
+    "purchaseId": "PUR0352",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP001",
+    "quantity": 13,
+    "unitCost": 217.45,
+    "totalCost": 2826.85,
+    "timestamp": "2025-05-03T20:39:06"
+  },
+  {
+    "purchaseId": "PUR0353",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 2,
+    "unitCost": 1281.53,
+    "totalCost": 2563.06,
+    "timestamp": "2025-02-05T02:36:18"
+  },
+  {
+    "purchaseId": "PUR0354",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP004",
+    "quantity": 10,
+    "unitCost": 867.17,
+    "totalCost": 8671.7,
+    "timestamp": "2025-04-02T19:14:53"
+  },
+  {
+    "purchaseId": "PUR0355",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP004",
+    "quantity": 14,
+    "unitCost": 1896.35,
+    "totalCost": 26548.9,
+    "timestamp": "2025-05-31T04:18:54"
+  },
+  {
+    "purchaseId": "PUR0356",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP001",
+    "quantity": 7,
+    "unitCost": 879.29,
+    "totalCost": 6155.03,
+    "timestamp": "2025-05-06T08:13:48"
+  },
+  {
+    "purchaseId": "PUR0357",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP001",
+    "quantity": 1,
+    "unitCost": 271.54,
+    "totalCost": 271.54,
+    "timestamp": "2025-04-23T23:23:49"
+  },
+  {
+    "purchaseId": "PUR0358",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP004",
+    "quantity": 19,
+    "unitCost": 399.69,
+    "totalCost": 7594.11,
+    "timestamp": "2025-04-12T14:19:28"
+  },
+  {
+    "purchaseId": "PUR0359",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP004",
+    "quantity": 6,
+    "unitCost": 1203.88,
+    "totalCost": 7223.28,
+    "timestamp": "2025-03-11T16:00:45"
+  },
+  {
+    "purchaseId": "PUR0360",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 10,
+    "unitCost": 668.98,
+    "totalCost": 6689.8,
+    "timestamp": "2025-05-27T23:26:16"
+  },
+  {
+    "purchaseId": "PUR0361",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 11,
+    "unitCost": 651.47,
+    "totalCost": 7166.17,
+    "timestamp": "2025-04-06T13:39:58"
+  },
+  {
+    "purchaseId": "PUR0362",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP004",
+    "quantity": 15,
+    "unitCost": 639.45,
+    "totalCost": 9591.75,
+    "timestamp": "2025-05-13T05:14:59"
+  },
+  {
+    "purchaseId": "PUR0363",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP002",
+    "quantity": 8,
+    "unitCost": 485.32,
+    "totalCost": 3882.56,
+    "timestamp": "2025-03-10T23:55:05"
+  },
+  {
+    "purchaseId": "PUR0364",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP003",
+    "quantity": 2,
+    "unitCost": 1647.59,
+    "totalCost": 3295.18,
+    "timestamp": "2025-04-05T13:17:18"
+  },
+  {
+    "purchaseId": "PUR0365",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 3,
+    "unitCost": 1798.2,
+    "totalCost": 5394.6,
+    "timestamp": "2025-03-13T21:52:00"
+  },
+  {
+    "purchaseId": "PUR0366",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 2,
+    "unitCost": 357.67,
+    "totalCost": 715.34,
+    "timestamp": "2025-03-27T10:16:15"
+  },
+  {
+    "purchaseId": "PUR0367",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP004",
+    "quantity": 13,
+    "unitCost": 1546.59,
+    "totalCost": 20105.67,
+    "timestamp": "2025-02-16T22:26:33"
+  },
+  {
+    "purchaseId": "PUR0368",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP004",
+    "quantity": 18,
+    "unitCost": 579.51,
+    "totalCost": 10431.18,
+    "timestamp": "2025-05-18T12:52:30"
+  },
+  {
+    "purchaseId": "PUR0369",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 3,
+    "unitCost": 908.35,
+    "totalCost": 2725.05,
+    "timestamp": "2025-05-10T17:31:04"
+  },
+  {
+    "purchaseId": "PUR0370",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP002",
+    "quantity": 15,
+    "unitCost": 1716.52,
+    "totalCost": 25747.8,
+    "timestamp": "2025-05-22T10:17:25"
+  },
+  {
+    "purchaseId": "PUR0371",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP003",
+    "quantity": 12,
+    "unitCost": 1858.12,
+    "totalCost": 22297.44,
+    "timestamp": "2025-02-08T03:07:57"
+  },
+  {
+    "purchaseId": "PUR0372",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 11,
+    "unitCost": 1817.07,
+    "totalCost": 19987.77,
+    "timestamp": "2025-03-02T01:15:46"
+  },
+  {
+    "purchaseId": "PUR0373",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP002",
+    "quantity": 17,
+    "unitCost": 906.16,
+    "totalCost": 15404.72,
+    "timestamp": "2025-03-29T08:08:28"
+  },
+  {
+    "purchaseId": "PUR0374",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 20,
+    "unitCost": 1278.89,
+    "totalCost": 25577.8,
+    "timestamp": "2025-04-17T14:31:29"
+  },
+  {
+    "purchaseId": "PUR0375",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 1,
+    "unitCost": 876.91,
+    "totalCost": 876.91,
+    "timestamp": "2025-05-01T05:15:25"
+  },
+  {
+    "purchaseId": "PUR0376",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP004",
+    "quantity": 16,
+    "unitCost": 1458.34,
+    "totalCost": 23333.44,
+    "timestamp": "2025-04-10T18:53:47"
+  },
+  {
+    "purchaseId": "PUR0377",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP002",
+    "quantity": 1,
+    "unitCost": 1740.04,
+    "totalCost": 1740.04,
+    "timestamp": "2025-02-15T09:46:29"
+  },
+  {
+    "purchaseId": "PUR0378",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 5,
+    "unitCost": 1125.75,
+    "totalCost": 5628.75,
+    "timestamp": "2025-03-21T17:38:15"
+  },
+  {
+    "purchaseId": "PUR0379",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP002",
+    "quantity": 10,
+    "unitCost": 555.16,
+    "totalCost": 5551.6,
+    "timestamp": "2025-05-03T20:31:58"
+  },
+  {
+    "purchaseId": "PUR0380",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP002",
+    "quantity": 4,
+    "unitCost": 708.29,
+    "totalCost": 2833.16,
+    "timestamp": "2025-03-01T13:18:49"
+  },
+  {
+    "purchaseId": "PUR0381",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP002",
+    "quantity": 20,
+    "unitCost": 1925.75,
+    "totalCost": 38515.0,
+    "timestamp": "2025-02-14T11:02:32"
+  },
+  {
+    "purchaseId": "PUR0382",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP004",
+    "quantity": 12,
+    "unitCost": 1830.46,
+    "totalCost": 21965.52,
+    "timestamp": "2025-05-18T19:37:42"
+  },
+  {
+    "purchaseId": "PUR0383",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 6,
+    "unitCost": 1663.92,
+    "totalCost": 9983.52,
+    "timestamp": "2025-02-05T16:36:18"
+  },
+  {
+    "purchaseId": "PUR0384",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 2,
+    "unitCost": 754.89,
+    "totalCost": 1509.78,
+    "timestamp": "2025-05-30T19:15:22"
+  },
+  {
+    "purchaseId": "PUR0385",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP003",
+    "quantity": 11,
+    "unitCost": 1099.27,
+    "totalCost": 12091.97,
+    "timestamp": "2025-02-25T05:24:03"
+  },
+  {
+    "purchaseId": "PUR0386",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 5,
+    "unitCost": 1583.89,
+    "totalCost": 7919.45,
+    "timestamp": "2025-02-06T22:56:46"
+  },
+  {
+    "purchaseId": "PUR0387",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP001",
+    "quantity": 10,
+    "unitCost": 157.44,
+    "totalCost": 1574.4,
+    "timestamp": "2025-03-21T15:25:35"
+  },
+  {
+    "purchaseId": "PUR0388",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP003",
+    "quantity": 1,
+    "unitCost": 201.07,
+    "totalCost": 201.07,
+    "timestamp": "2025-05-20T18:24:09"
+  },
+  {
+    "purchaseId": "PUR0389",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP003",
+    "quantity": 13,
+    "unitCost": 1820.99,
+    "totalCost": 23672.87,
+    "timestamp": "2025-02-15T05:11:47"
+  },
+  {
+    "purchaseId": "PUR0390",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP004",
+    "quantity": 9,
+    "unitCost": 391.39,
+    "totalCost": 3522.51,
+    "timestamp": "2025-02-10T21:17:39"
+  },
+  {
+    "purchaseId": "PUR0391",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP003",
+    "quantity": 10,
+    "unitCost": 1698.57,
+    "totalCost": 16985.7,
+    "timestamp": "2025-02-01T18:39:42"
+  },
+  {
+    "purchaseId": "PUR0392",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP004",
+    "quantity": 1,
+    "unitCost": 1498.38,
+    "totalCost": 1498.38,
+    "timestamp": "2025-04-17T12:04:21"
+  },
+  {
+    "purchaseId": "PUR0393",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 6,
+    "unitCost": 1115.3,
+    "totalCost": 6691.8,
+    "timestamp": "2025-02-09T07:41:59"
+  },
+  {
+    "purchaseId": "PUR0394",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP002",
+    "quantity": 5,
+    "unitCost": 1704.76,
+    "totalCost": 8523.8,
+    "timestamp": "2025-03-03T15:36:32"
+  },
+  {
+    "purchaseId": "PUR0395",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 18,
+    "unitCost": 860.72,
+    "totalCost": 15492.96,
+    "timestamp": "2025-05-18T23:49:49"
+  },
+  {
+    "purchaseId": "PUR0396",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP002",
+    "quantity": 19,
+    "unitCost": 522.72,
+    "totalCost": 9931.68,
+    "timestamp": "2025-02-27T13:11:27"
+  },
+  {
+    "purchaseId": "PUR0397",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 20,
+    "unitCost": 690.69,
+    "totalCost": 13813.8,
+    "timestamp": "2025-05-13T21:26:41"
+  },
+  {
+    "purchaseId": "PUR0398",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 15,
+    "unitCost": 299.28,
+    "totalCost": 4489.2,
+    "timestamp": "2025-05-28T21:43:39"
+  },
+  {
+    "purchaseId": "PUR0399",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 16,
+    "unitCost": 1004.57,
+    "totalCost": 16073.12,
+    "timestamp": "2025-04-26T16:22:46"
+  },
+  {
+    "purchaseId": "PUR0400",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP001",
+    "quantity": 12,
+    "unitCost": 1838.29,
+    "totalCost": 22059.48,
+    "timestamp": "2025-04-01T17:27:27"
+  },
+  {
+    "purchaseId": "PUR0401",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 8,
+    "unitCost": 1535.12,
+    "totalCost": 12280.96,
+    "timestamp": "2025-02-02T17:58:58"
+  },
+  {
+    "purchaseId": "PUR0402",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP004",
+    "quantity": 9,
+    "unitCost": 929.95,
+    "totalCost": 8369.55,
+    "timestamp": "2025-03-09T08:06:43"
+  },
+  {
+    "purchaseId": "PUR0403",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 17,
+    "unitCost": 459.13,
+    "totalCost": 7805.21,
+    "timestamp": "2025-04-12T07:40:39"
+  },
+  {
+    "purchaseId": "PUR0404",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 20,
+    "unitCost": 1264.02,
+    "totalCost": 25280.4,
+    "timestamp": "2025-02-06T09:59:43"
+  },
+  {
+    "purchaseId": "PUR0405",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP003",
+    "quantity": 2,
+    "unitCost": 1463.46,
+    "totalCost": 2926.92,
+    "timestamp": "2025-05-06T17:42:39"
+  },
+  {
+    "purchaseId": "PUR0406",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP002",
+    "quantity": 16,
+    "unitCost": 255.99,
+    "totalCost": 4095.84,
+    "timestamp": "2025-02-04T12:03:51"
+  },
+  {
+    "purchaseId": "PUR0407",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 10,
+    "unitCost": 483.48,
+    "totalCost": 4834.8,
+    "timestamp": "2025-03-08T13:48:55"
+  },
+  {
+    "purchaseId": "PUR0408",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 10,
+    "unitCost": 967.65,
+    "totalCost": 9676.5,
+    "timestamp": "2025-03-12T08:39:01"
+  },
+  {
+    "purchaseId": "PUR0409",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 3,
+    "unitCost": 1446.86,
+    "totalCost": 4340.58,
+    "timestamp": "2025-03-29T10:00:54"
+  },
+  {
+    "purchaseId": "PUR0410",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP004",
+    "quantity": 10,
+    "unitCost": 913.24,
+    "totalCost": 9132.4,
+    "timestamp": "2025-02-22T05:47:51"
+  },
+  {
+    "purchaseId": "PUR0411",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 8,
+    "unitCost": 852.23,
+    "totalCost": 6817.84,
+    "timestamp": "2025-05-12T19:53:15"
+  },
+  {
+    "purchaseId": "PUR0412",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP001",
+    "quantity": 14,
+    "unitCost": 430.24,
+    "totalCost": 6023.36,
+    "timestamp": "2025-05-17T00:48:15"
+  },
+  {
+    "purchaseId": "PUR0413",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 1,
+    "unitCost": 809.7,
+    "totalCost": 809.7,
+    "timestamp": "2025-05-22T08:45:14"
+  },
+  {
+    "purchaseId": "PUR0414",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 9,
+    "unitCost": 1650.61,
+    "totalCost": 14855.49,
+    "timestamp": "2025-02-04T15:12:43"
+  },
+  {
+    "purchaseId": "PUR0415",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP004",
+    "quantity": 13,
+    "unitCost": 1769.6,
+    "totalCost": 23004.8,
+    "timestamp": "2025-03-02T15:54:36"
+  },
+  {
+    "purchaseId": "PUR0416",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 12,
+    "unitCost": 458.87,
+    "totalCost": 5506.44,
+    "timestamp": "2025-04-12T19:45:38"
+  },
+  {
+    "purchaseId": "PUR0417",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 14,
+    "unitCost": 813.87,
+    "totalCost": 11394.18,
+    "timestamp": "2025-03-03T21:53:56"
+  },
+  {
+    "purchaseId": "PUR0418",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 7,
+    "unitCost": 1769.02,
+    "totalCost": 12383.14,
+    "timestamp": "2025-03-10T16:38:28"
+  },
+  {
+    "purchaseId": "PUR0419",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP004",
+    "quantity": 4,
+    "unitCost": 1717.29,
+    "totalCost": 6869.16,
+    "timestamp": "2025-04-06T09:34:45"
+  },
+  {
+    "purchaseId": "PUR0420",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP002",
+    "quantity": 5,
+    "unitCost": 200.8,
+    "totalCost": 1004.0,
+    "timestamp": "2025-02-24T15:13:06"
+  },
+  {
+    "purchaseId": "PUR0421",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP001",
+    "quantity": 19,
+    "unitCost": 1068.79,
+    "totalCost": 20307.01,
+    "timestamp": "2025-04-19T00:28:45"
+  },
+  {
+    "purchaseId": "PUR0422",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 7,
+    "unitCost": 1228.28,
+    "totalCost": 8597.96,
+    "timestamp": "2025-04-24T21:04:28"
+  },
+  {
+    "purchaseId": "PUR0423",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP003",
+    "quantity": 16,
+    "unitCost": 1544.47,
+    "totalCost": 24711.52,
+    "timestamp": "2025-05-27T12:31:20"
+  },
+  {
+    "purchaseId": "PUR0424",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP003",
+    "quantity": 8,
+    "unitCost": 1391.94,
+    "totalCost": 11135.52,
+    "timestamp": "2025-04-22T07:04:19"
+  },
+  {
+    "purchaseId": "PUR0425",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP002",
+    "quantity": 12,
+    "unitCost": 320.0,
+    "totalCost": 3840.0,
+    "timestamp": "2025-03-01T04:26:06"
+  },
+  {
+    "purchaseId": "PUR0426",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP002",
+    "quantity": 13,
+    "unitCost": 1306.62,
+    "totalCost": 16986.06,
+    "timestamp": "2025-04-12T00:23:16"
+  },
+  {
+    "purchaseId": "PUR0427",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 5,
+    "unitCost": 1095.38,
+    "totalCost": 5476.9,
+    "timestamp": "2025-02-26T20:08:16"
+  },
+  {
+    "purchaseId": "PUR0428",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP002",
+    "quantity": 17,
+    "unitCost": 538.31,
+    "totalCost": 9151.27,
+    "timestamp": "2025-04-22T14:52:40"
+  },
+  {
+    "purchaseId": "PUR0429",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP002",
+    "quantity": 18,
+    "unitCost": 1399.68,
+    "totalCost": 25194.24,
+    "timestamp": "2025-05-19T02:43:24"
+  },
+  {
+    "purchaseId": "PUR0430",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 2,
+    "unitCost": 379.61,
+    "totalCost": 759.22,
+    "timestamp": "2025-05-17T20:37:27"
+  },
+  {
+    "purchaseId": "PUR0431",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP004",
+    "quantity": 11,
+    "unitCost": 471.43,
+    "totalCost": 5185.73,
+    "timestamp": "2025-03-05T12:10:02"
+  },
+  {
+    "purchaseId": "PUR0432",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP002",
+    "quantity": 6,
+    "unitCost": 1065.79,
+    "totalCost": 6394.74,
+    "timestamp": "2025-04-30T05:28:42"
+  },
+  {
+    "purchaseId": "PUR0433",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 5,
+    "unitCost": 1680.25,
+    "totalCost": 8401.25,
+    "timestamp": "2025-02-26T04:47:31"
+  },
+  {
+    "purchaseId": "PUR0434",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP002",
+    "quantity": 18,
+    "unitCost": 625.25,
+    "totalCost": 11254.5,
+    "timestamp": "2025-02-24T01:48:55"
+  },
+  {
+    "purchaseId": "PUR0435",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP004",
+    "quantity": 1,
+    "unitCost": 570.0,
+    "totalCost": 570.0,
+    "timestamp": "2025-04-01T07:17:04"
+  },
+  {
+    "purchaseId": "PUR0436",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP001",
+    "quantity": 20,
+    "unitCost": 873.22,
+    "totalCost": 17464.4,
+    "timestamp": "2025-05-10T08:46:03"
+  },
+  {
+    "purchaseId": "PUR0437",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 1,
+    "unitCost": 1940.58,
+    "totalCost": 1940.58,
+    "timestamp": "2025-02-24T08:28:17"
+  },
+  {
+    "purchaseId": "PUR0438",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 17,
+    "unitCost": 388.42,
+    "totalCost": 6603.14,
+    "timestamp": "2025-04-28T23:37:19"
+  },
+  {
+    "purchaseId": "PUR0439",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP002",
+    "quantity": 11,
+    "unitCost": 1116.33,
+    "totalCost": 12279.63,
+    "timestamp": "2025-04-08T07:28:05"
+  },
+  {
+    "purchaseId": "PUR0440",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 12,
+    "unitCost": 1826.12,
+    "totalCost": 21913.44,
+    "timestamp": "2025-04-14T23:00:13"
+  },
+  {
+    "purchaseId": "PUR0441",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 20,
+    "unitCost": 1994.35,
+    "totalCost": 39887.0,
+    "timestamp": "2025-02-15T04:44:36"
+  },
+  {
+    "purchaseId": "PUR0442",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP004",
+    "quantity": 5,
+    "unitCost": 1174.29,
+    "totalCost": 5871.45,
+    "timestamp": "2025-02-22T22:33:54"
+  },
+  {
+    "purchaseId": "PUR0443",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP001",
+    "quantity": 5,
+    "unitCost": 1799.71,
+    "totalCost": 8998.55,
+    "timestamp": "2025-03-07T04:16:05"
+  },
+  {
+    "purchaseId": "PUR0444",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP004",
+    "quantity": 13,
+    "unitCost": 314.02,
+    "totalCost": 4082.26,
+    "timestamp": "2025-04-01T17:58:53"
+  },
+  {
+    "purchaseId": "PUR0445",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP004",
+    "quantity": 2,
+    "unitCost": 801.13,
+    "totalCost": 1602.26,
+    "timestamp": "2025-03-11T23:32:14"
+  },
+  {
+    "purchaseId": "PUR0446",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 17,
+    "unitCost": 324.74,
+    "totalCost": 5520.58,
+    "timestamp": "2025-05-07T14:28:21"
+  },
+  {
+    "purchaseId": "PUR0447",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP003",
+    "quantity": 19,
+    "unitCost": 258.43,
+    "totalCost": 4910.17,
+    "timestamp": "2025-04-08T19:05:10"
+  },
+  {
+    "purchaseId": "PUR0448",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 19,
+    "unitCost": 505.91,
+    "totalCost": 9612.29,
+    "timestamp": "2025-05-14T19:35:55"
+  },
+  {
+    "purchaseId": "PUR0449",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 4,
+    "unitCost": 830.46,
+    "totalCost": 3321.84,
+    "timestamp": "2025-03-22T08:18:58"
+  },
+  {
+    "purchaseId": "PUR0450",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 1,
+    "unitCost": 527.84,
+    "totalCost": 527.84,
+    "timestamp": "2025-03-01T13:44:32"
+  },
+  {
+    "purchaseId": "PUR0451",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP001",
+    "quantity": 1,
+    "unitCost": 1646.2,
+    "totalCost": 1646.2,
+    "timestamp": "2025-04-10T06:26:49"
+  },
+  {
+    "purchaseId": "PUR0452",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP002",
+    "quantity": 6,
+    "unitCost": 1784.57,
+    "totalCost": 10707.42,
+    "timestamp": "2025-03-20T09:06:25"
+  },
+  {
+    "purchaseId": "PUR0453",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 12,
+    "unitCost": 968.1,
+    "totalCost": 11617.2,
+    "timestamp": "2025-04-26T19:15:49"
+  },
+  {
+    "purchaseId": "PUR0454",
+    "productId": "P0003",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 2,
+    "unitCost": 907.24,
+    "totalCost": 1814.48,
+    "timestamp": "2025-02-26T13:14:47"
+  },
+  {
+    "purchaseId": "PUR0455",
+    "productId": "P0003",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 3,
+    "unitCost": 1874.75,
+    "totalCost": 5624.25,
+    "timestamp": "2025-05-31T03:30:35"
+  },
+  {
+    "purchaseId": "PUR0456",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP003",
+    "quantity": 12,
+    "unitCost": 538.27,
+    "totalCost": 6459.24,
+    "timestamp": "2025-02-19T16:13:33"
+  },
+  {
+    "purchaseId": "PUR0457",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP004",
+    "quantity": 10,
+    "unitCost": 451.62,
+    "totalCost": 4516.2,
+    "timestamp": "2025-05-10T07:51:48"
+  },
+  {
+    "purchaseId": "PUR0458",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP002",
+    "quantity": 20,
+    "unitCost": 997.53,
+    "totalCost": 19950.6,
+    "timestamp": "2025-02-21T09:20:50"
+  },
+  {
+    "purchaseId": "PUR0459",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 18,
+    "unitCost": 131.42,
+    "totalCost": 2365.56,
+    "timestamp": "2025-02-20T22:18:06"
+  },
+  {
+    "purchaseId": "PUR0460",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP004",
+    "quantity": 12,
+    "unitCost": 1919.54,
+    "totalCost": 23034.48,
+    "timestamp": "2025-04-25T16:40:25"
+  },
+  {
+    "purchaseId": "PUR0461",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP003",
+    "quantity": 15,
+    "unitCost": 1656.81,
+    "totalCost": 24852.15,
+    "timestamp": "2025-03-28T19:48:30"
+  },
+  {
+    "purchaseId": "PUR0462",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 6,
+    "unitCost": 1287.18,
+    "totalCost": 7723.08,
+    "timestamp": "2025-05-15T01:12:48"
+  },
+  {
+    "purchaseId": "PUR0463",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 17,
+    "unitCost": 1109.67,
+    "totalCost": 18864.39,
+    "timestamp": "2025-03-21T07:10:17"
+  },
+  {
+    "purchaseId": "PUR0464",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 14,
+    "unitCost": 402.32,
+    "totalCost": 5632.48,
+    "timestamp": "2025-05-24T17:56:40"
+  },
+  {
+    "purchaseId": "PUR0465",
+    "productId": "P0002",
+    "warehouseId": "WH003",
+    "supplierId": "SUP003",
+    "quantity": 17,
+    "unitCost": 560.08,
+    "totalCost": 9521.36,
+    "timestamp": "2025-05-02T04:51:20"
+  },
+  {
+    "purchaseId": "PUR0466",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP001",
+    "quantity": 10,
+    "unitCost": 1433.14,
+    "totalCost": 14331.4,
+    "timestamp": "2025-02-03T23:02:58"
+  },
+  {
+    "purchaseId": "PUR0467",
+    "productId": "P0001",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 14,
+    "unitCost": 1937.21,
+    "totalCost": 27120.94,
+    "timestamp": "2025-03-30T22:49:21"
+  },
+  {
+    "purchaseId": "PUR0468",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP004",
+    "quantity": 12,
+    "unitCost": 895.22,
+    "totalCost": 10742.64,
+    "timestamp": "2025-03-14T10:09:17"
+  },
+  {
+    "purchaseId": "PUR0469",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP002",
+    "quantity": 7,
+    "unitCost": 831.07,
+    "totalCost": 5817.49,
+    "timestamp": "2025-05-03T23:45:04"
+  },
+  {
+    "purchaseId": "PUR0470",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP001",
+    "quantity": 1,
+    "unitCost": 1584.57,
+    "totalCost": 1584.57,
+    "timestamp": "2025-05-31T01:13:56"
+  },
+  {
+    "purchaseId": "PUR0471",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP002",
+    "quantity": 3,
+    "unitCost": 1890.0,
+    "totalCost": 5670.0,
+    "timestamp": "2025-03-15T00:22:08"
+  },
+  {
+    "purchaseId": "PUR0472",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP002",
+    "quantity": 19,
+    "unitCost": 1685.83,
+    "totalCost": 32030.77,
+    "timestamp": "2025-02-01T07:20:06"
+  },
+  {
+    "purchaseId": "PUR0473",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP004",
+    "quantity": 9,
+    "unitCost": 1830.23,
+    "totalCost": 16472.07,
+    "timestamp": "2025-05-30T07:00:42"
+  },
+  {
+    "purchaseId": "PUR0474",
+    "productId": "P0002",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 6,
+    "unitCost": 1712.45,
+    "totalCost": 10274.7,
+    "timestamp": "2025-04-21T17:37:03"
+  },
+  {
+    "purchaseId": "PUR0475",
+    "productId": "P0001",
+    "warehouseId": "WH004",
+    "supplierId": "SUP002",
+    "quantity": 13,
+    "unitCost": 1655.62,
+    "totalCost": 21523.06,
+    "timestamp": "2025-04-07T13:41:24"
+  },
+  {
+    "purchaseId": "PUR0476",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP004",
+    "quantity": 9,
+    "unitCost": 1320.44,
+    "totalCost": 11883.96,
+    "timestamp": "2025-04-22T09:14:03"
+  },
+  {
+    "purchaseId": "PUR0477",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP002",
+    "quantity": 11,
+    "unitCost": 1184.91,
+    "totalCost": 13034.01,
+    "timestamp": "2025-04-26T19:41:26"
+  },
+  {
+    "purchaseId": "PUR0478",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP004",
+    "quantity": 3,
+    "unitCost": 1587.17,
+    "totalCost": 4761.51,
+    "timestamp": "2025-03-15T06:23:52"
+  },
+  {
+    "purchaseId": "PUR0479",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP002",
+    "quantity": 19,
+    "unitCost": 1322.01,
+    "totalCost": 25118.19,
+    "timestamp": "2025-02-01T00:55:32"
+  },
+  {
+    "purchaseId": "PUR0480",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP002",
+    "quantity": 10,
+    "unitCost": 1496.54,
+    "totalCost": 14965.4,
+    "timestamp": "2025-05-12T16:42:40"
+  },
+  {
+    "purchaseId": "PUR0481",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 11,
+    "unitCost": 1478.65,
+    "totalCost": 16265.15,
+    "timestamp": "2025-03-12T16:10:50"
+  },
+  {
+    "purchaseId": "PUR0482",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP001",
+    "quantity": 2,
+    "unitCost": 1716.3,
+    "totalCost": 3432.6,
+    "timestamp": "2025-03-27T05:20:45"
+  },
+  {
+    "purchaseId": "PUR0483",
+    "productId": "P0003",
+    "warehouseId": "WH004",
+    "supplierId": "SUP002",
+    "quantity": 14,
+    "unitCost": 1827.66,
+    "totalCost": 25587.24,
+    "timestamp": "2025-02-02T22:06:14"
+  },
+  {
+    "purchaseId": "PUR0484",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP002",
+    "quantity": 9,
+    "unitCost": 1666.44,
+    "totalCost": 14997.96,
+    "timestamp": "2025-03-07T03:49:50"
+  },
+  {
+    "purchaseId": "PUR0485",
+    "productId": "P0003",
+    "warehouseId": "WH001",
+    "supplierId": "SUP003",
+    "quantity": 16,
+    "unitCost": 1212.09,
+    "totalCost": 19393.44,
+    "timestamp": "2025-05-16T22:17:13"
+  },
+  {
+    "purchaseId": "PUR0486",
+    "productId": "P0001",
+    "warehouseId": "WH002",
+    "supplierId": "SUP004",
+    "quantity": 11,
+    "unitCost": 170.96,
+    "totalCost": 1880.56,
+    "timestamp": "2025-05-14T07:09:37"
+  },
+  {
+    "purchaseId": "PUR0487",
+    "productId": "P0002",
+    "warehouseId": "WH004",
+    "supplierId": "SUP003",
+    "quantity": 15,
+    "unitCost": 1248.35,
+    "totalCost": 18725.25,
+    "timestamp": "2025-02-22T00:45:18"
+  },
+  {
+    "purchaseId": "PUR0488",
+    "productId": "P0002",
+    "warehouseId": "WH001",
+    "supplierId": "SUP001",
+    "quantity": 15,
+    "unitCost": 126.34,
+    "totalCost": 1895.1,
+    "timestamp": "2025-05-17T09:28:13"
+  },
+  {
+    "purchaseId": "PUR0489",
+    "productId": "P0001",
+    "warehouseId": "WH003",
+    "supplierId": "SUP002",
+    "quantity": 4,
+    "unitCost": 355.38,
+    "totalCost": 1421.52,
+    "timestamp": "2025-04-18T08:01:49"
   }
 ]

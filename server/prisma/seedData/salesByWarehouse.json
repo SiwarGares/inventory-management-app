@@ -1,0 +1,114 @@
+[
+  {
+    "salesByWarehouseId": "SBW001001",
+    "salesSummaryId": "SSUM001",
+    "warehouseId": "WH001",
+    "totalValue": 155.27,
+    "date": "2025-05-31T23:59:59Z"
+  },
+  {
+    "salesByWarehouseId": "SBW001002",
+    "salesSummaryId": "SSUM001",
+    "warehouseId": "WH002",
+    "totalValue": 3282.78,
+    "date": "2025-05-31T23:59:59Z"
+  },
+  {
+    "salesByWarehouseId": "SBW001003",
+    "salesSummaryId": "SSUM001",
+    "warehouseId": "WH003",
+    "totalValue": 4165.37,
+    "date": "2025-05-31T23:59:59Z"
+  },
+  {
+    "salesByWarehouseId": "SBW001004",
+    "salesSummaryId": "SSUM001",
+    "warehouseId": "WH004",
+    "totalValue": 357.64,
+    "date": "2025-05-31T23:59:59Z"
+  },
+  {
+    "salesByWarehouseId": "SBW002001",
+    "salesSummaryId": "SSUM002",
+    "warehouseId": "WH001",
+    "totalValue": 1012.71,
+    "date": "2025-06-01T23:59:59Z"
+  },
+  {
+    "salesByWarehouseId": "SBW002002",
+    "salesSummaryId": "SSUM002",
+    "warehouseId": "WH002",
+    "totalValue": 5175.65,
+    "date": "2025-06-01T23:59:59Z"
+  },
+  {
+    "salesByWarehouseId": "SBW002003",
+    "salesSummaryId": "SSUM002",
+    "warehouseId": "WH003",
+    "totalValue": 3045.56,
+    "date": "2025-06-01T23:59:59Z"
+  },
+  {
+    "salesByWarehouseId": "SBW002004",
+    "salesSummaryId": "SSUM002",
+    "warehouseId": "WH004",
+    "totalValue": 8101.95,
+    "date": "2025-06-01T23:59:59Z"
+  },
+  {
+    "salesByWarehouseId": "SBW003001",
+    "salesSummaryId": "SSUM003",
+    "warehouseId": "WH001",
+    "totalValue": 5912.23,
+    "date": "2025-06-02T23:59:59Z"
+  },
+  {
+    "salesByWarehouseId": "SBW003002",
+    "salesSummaryId": "SSUM003",
+    "warehouseId": "WH002",
+    "totalValue": 6111.2,
+    "date": "2025-06-02T23:59:59Z"
+  },
+  {
+    "salesByWarehouseId": "SBW003003",
+    "salesSummaryId": "SSUM003",
+    "warehouseId": "WH003",
+    "totalValue": 3128.09,
+    "date": "2025-06-02T23:59:59Z"
+  },
+  {
+    "salesByWarehouseId": "SBW003004",
+    "salesSummaryId": "SSUM003",
+    "warehouseId": "WH004",
+    "totalValue": 6607.26,
+    "date": "2025-06-02T23:59:59Z"
+  },
+  {
+    "salesByWarehouseId": "SBW004001",
+    "salesSummaryId": "SSUM004",
+    "warehouseId": "WH001",
+    "totalValue": 5157.88,
+    "date": "2025-06-03T23:59:59Z"
+  },
+  {
+    "salesByWarehouseId": "SBW004002",
+    "salesSummaryId": "SSUM004",
+    "warehouseId": "WH002",
+    "totalValue": 322.77,
+    "date": "2025-06-03T23:59:59Z"
+  },
+  {
+    "salesByWarehouseId": "SBW004003",
+    "salesSummaryId": "SSUM004",
+    "warehouseId": "WH003",
+    "totalValue": 7631.92,
+    "date": "2025-06-03T23:59:59Z"
+  },
+  {
+    "salesByWarehouseId": "SBW004004",
+    "salesSummaryId": "SSUM004",
+    "warehouseId": "WH004",
+    "totalValue": 1744.76,
+    "date": "2025-06-03T23:59:59Z"
+  }
+]

@@ -1,9 +1,3 @@
-// This is your Prisma schema file,
-// learn more about it in the docs: https://pris.ly/d/prisma-schema
-
-// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
-// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
-
 generator client {
   provider = "prisma-client-js"
 }
@@ -11,4 +5,222 @@ generator client {
 datasource db {
   provider = "postgresql"
   url      = env("DATABASE_URL")
+}
+
+enum UserRole {
+  admin
+  gestionnaireStock
+  operateur
+  fournisseur
+}
+
+enum ExpenseCategory {
+  Transport
+  Électricité
+  Maintenance
+  Assurance
+  Pertes
+}
+
+enum PurchaseOrderStatus {
+  pending
+  completed
+  cancelled
+}
+
+model Users {
+  userId        String        @id @default(uuid())
+  name          String
+  email         String        @unique
+  role          UserRole
+  createdAt     DateTime      @default(now())
+  updatedAt     DateTime      @updatedAt
+
+  Warehouses    Warehouses[]  // Relation avec Warehouses (pour managerId)
+  WarehouseOperator WarehouseOperator[] // Relation avec WarehouseOperator
+  PurchaseOrders PurchaseOrder[] // Relation avec PurchaseOrder (opérateur)
+}
+
+model Suppliers {
+  supplierId String   @id @default(uuid())
+  name       String
+  email      String   @unique
+  phone      String?
+  address    String?
+  status     String
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  Purchases      Purchases[]
+  PurchaseOrders PurchaseOrder[] // Relation avec PurchaseOrder (fournisseur suggéré)
+}
+
+model Warehouses {
+  warehouseId String   @id @default(uuid())
+  name        String
+  location    String
+  managerId   String
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  manager     Users      @relation(fields: [managerId], references: [userId])
+  operators   WarehouseOperator[] // Relation avec les opérateurs
+  ProductWarehouse ProductWarehouse[]
+  Sales           Sales[]
+  Purchases       Purchases[]
+  PurchaseOrders  PurchaseOrder[] // Relation avec PurchaseOrder (entrepôt)
+  SalesByWarehouse SalesByWarehouse[]
+  PurchasesByWarehouse PurchasesByWarehouse[]
+}
+
+model WarehouseOperator {
+  warehouseId String
+  userId      String
+
+  warehouse   Warehouses @relation(fields: [warehouseId], references: [warehouseId])
+  user        Users      @relation(fields: [userId], references: [userId])
+
+  @@id([warehouseId, userId])
+}
+
+model Products {
+  productId     String      @id @default(uuid())
+  name          String
+  category      String
+  brand         String
+  price         Float
+  rating        Float?
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  ProductWarehouse ProductWarehouse[]
+  Sales           Sales[]
+  Purchases       Purchases[]
+  PurchaseOrders  PurchaseOrder[] // Relation avec PurchaseOrder (produit)
+}
+
+model ProductWarehouse {
+  productId    String   @map("product_id")
+  warehouseId  String   @map("warehouse_id")
+  stockQuantity Int
+
+  product      Products   @relation(fields: [productId], references: [productId])
+  warehouse    Warehouses @relation(fields: [warehouseId], references: [warehouseId])
+
+  @@id([productId, warehouseId])
+}
+
+model Sales {
+  saleId      String   @id @default(uuid())
+  productId   String
+  warehouseId String
+  timestamp   DateTime @default(now())
+  quantity    Int
+  unitPrice   Float
+  totalAmount Float
+
+  product     Products   @relation(fields: [productId], references: [productId])
+  warehouse   Warehouses @relation(fields: [warehouseId], references: [warehouseId])
+}
+
+model Purchases {
+  purchaseId  String   @id @default(uuid())
+  productId   String
+  warehouseId String
+  supplierId  String
+  timestamp   DateTime @default(now())
+  quantity    Int
+  unitCost    Float
+  totalCost   Float
+
+  product     Products   @relation(fields: [productId], references: [productId])
+  warehouse   Warehouses @relation(fields: [warehouseId], references: [warehouseId])
+  supplier    Suppliers  @relation(fields: [supplierId], references: [supplierId])
+}
+
+model PurchaseOrder {
+  purchaseOrderId String              @id @default(uuid())
+  productId       String
+  warehouseId     String
+  userId          String
+  supplierId      String?
+  quantity        Int
+  status          PurchaseOrderStatus @default(pending)
+  timestamp       DateTime            @default(now())
+  createdAt       DateTime            @default(now())
+  updatedAt       DateTime            @updatedAt
+
+  product         Products   @relation(fields: [productId], references: [productId])
+  warehouse       Warehouses @relation(fields: [warehouseId], references: [warehouseId])
+  user            Users      @relation(fields: [userId], references: [userId])
+  supplier        Suppliers? @relation(fields: [supplierId], references: [supplierId])
+}
+
+model Expenses {
+  expenseId   String         @id @default(uuid())
+  category    ExpenseCategory
+  amount      Float
+  description String?
+  timestamp   DateTime       @default(now())
+}
+
+model SalesSummary {
+  salesSummaryId   String   @id @default(uuid())
+  totalValue       Float
+  changePercentage Float?
+  date             DateTime
+
+  SalesByWarehouse SalesByWarehouse[]
+}
+
+model PurchaseSummary {
+  purchaseSummaryId String   @id @default(uuid())
+  totalPurchased    Float
+  changePercentage  Float?
+  date              DateTime
+
+  PurchasesByWarehouse PurchasesByWarehouse[]
+}
+
+model SalesByWarehouse {
+  salesByWarehouseId String   @id @default(uuid())
+  salesSummaryId     String
+  warehouseId        String
+  totalValue         Float
+  date               DateTime
+
+  salesSummary       SalesSummary @relation(fields: [salesSummaryId], references: [salesSummaryId])
+  warehouse          Warehouses   @relation(fields: [warehouseId], references: [warehouseId])
+}
+
+model PurchasesByWarehouse {
+  purchasesByWarehouseId String   @id @default(uuid())
+  purchaseSummaryId      String
+  warehouseId            String
+  totalPurchased         Float
+  date                   DateTime
+
+  purchaseSummary        PurchaseSummary @relation(fields: [purchaseSummaryId], references: [purchaseSummaryId])
+  warehouse              Warehouses      @relation(fields: [warehouseId], references: [warehouseId])
+}
+
+model ExpenseSummary {
+  expenseSummaryId  String              @id @default(uuid())
+  totalExpenses     Float
+  lastExpenseDate   DateTime?
+  numberOfExpenses  Int?
+  date              DateTime
+  changePercentage  Float?
+
+  ExpenseByCategory ExpenseByCategory[]
+}
+
+model ExpenseByCategory {
+  expenseByCategoryId String         @id @default(uuid())
+  expenseSummaryId    String
+  category            ExpenseCategory
+  amount              Float
+  date                DateTime
+
+  expenseSummary      ExpenseSummary @relation(fields: [expenseSummaryId], references: [expenseSummaryId])
 }

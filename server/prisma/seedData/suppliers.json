@@ -1,0 +1,34 @@
+[
+  {
+    "supplierId": "SUP001",
+    "name": "Fournisseur 1",
+    "email": "fournisseur1@graiet.tn",
+    "phone": "+216 70 00 00 01",
+    "address": "Zone industrielle 1, Tunis",
+    "status": "en attente"
+  },
+  {
+    "supplierId": "SUP002",
+    "name": "Fournisseur 2",
+    "email": "fournisseur2@graiet.tn",
+    "phone": "+216 70 00 00 02",
+    "address": "Zone industrielle 2, Tunis",
+    "status": "actif"
+  },
+  {
+    "supplierId": "SUP003",
+    "name": "Fournisseur 3",
+    "email": "fournisseur3@graiet.tn",
+    "phone": "+216 70 00 00 03",
+    "address": "Zone industrielle 3, Tunis",
+    "status": "en attente"
+  },
+  {
+    "supplierId": "SUP004",
+    "name": "Fournisseur 4",
+    "email": "fournisseur4@graiet.tn",
+    "phone": "+216 70 00 00 04",
+    "address": "Zone industrielle 4, Tunis",
+    "status": "actif"
+  }
+]

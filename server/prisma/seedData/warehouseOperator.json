@@ -1,0 +1,18 @@
+[
+  {
+    "warehouseId": "WH001",
+    "userId": "USR006"
+  },
+  {
+    "warehouseId": "WH002",
+    "userId": "USR007"
+  },
+  {
+    "warehouseId": "WH003",
+    "userId": "USR008"
+  },
+  {
+    "warehouseId": "WH004",
+    "userId": "USR009"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "warehouseId": "WH001",
+    "name": "Entrepôt Tunis",
+    "location": "Tunis, Tunisie",
+    "managerId": "USR002"
+  },
+  {
+    "warehouseId": "WH002",
+    "name": "Entrepôt Sousse",
+    "location": "Sousse, Tunisie",
+    "managerId": "USR003"
+  },
+  {
+    "warehouseId": "WH003",
+    "name": "Entrepôt Bizerte",
+    "location": "Bizerte, Tunisie",
+    "managerId": "USR004"
+  },
+  {
+    "warehouseId": "WH004",
+    "name": "Entrepôt Sfax",
+    "location": "Sfax, Tunisie",
+    "managerId": "USR005"
+  }
+]

@@ -1,92 +1,562 @@
 [
   {
-    "expenseId": "5c1121d7-20c8-4890-81c0-949bd60523a3",
-    "category": "Salaries",
-    "amount": 1489153.5,
-    "timestamp": "2022-08-27T18:35:57Z"
+    "expenseId": "EXP0000",
+    "category": "Assurance",
+    "amount": 1378.13,
+    "description": "Expense 0",
+    "timestamp": "2025-05-01T18:29:05"
   },
   {
-    "expenseId": "4529aaef-39d0-4188-9256-8c8fd5bad7ca",
-    "category": "Office",
-    "amount": 1579039.97,
-    "timestamp": "2020-05-12T19:39:50Z"
+    "expenseId": "EXP0001",
+    "category": "Pertes",
+    "amount": 380.6,
+    "description": "Expense 1",
+    "timestamp": "2025-03-20T10:56:48"
   },
   {
-    "expenseId": "fca4f2d0-c3d7-4246-a04e-626ab4045c40",
-    "category": "Office",
-    "amount": 607415.3,
-    "timestamp": "2021-06-08T13:48:10Z"
+    "expenseId": "EXP0002",
+    "category": "Maintenance",
+    "amount": 1943.05,
+    "description": "Expense 2",
+    "timestamp": "2025-04-30T06:53:28"
   },
   {
-    "expenseId": "34de9517-153e-4505-9af8-dc8440e28dd9",
-    "category": "Salaries",
-    "amount": 171044.25,
-    "timestamp": "2022-10-03T22:21:20Z"
+    "expenseId": "EXP0003",
+    "category": "Électricité",
+    "amount": 2273.53,
+    "description": "Expense 3",
+    "timestamp": "2025-02-16T17:55:42"
   },
   {
-    "expenseId": "c21c08e8-51b9-40f1-be37-b5116cd8d174",
-    "category": "Salaries",
-    "amount": 303743.89,
-    "timestamp": "2020-03-18T00:41:00Z"
+    "expenseId": "EXP0004",
+    "category": "Assurance",
+    "amount": 2046.34,
+    "description": "Expense 4",
+    "timestamp": "2025-05-10T01:19:25"
   },
   {
-    "expenseId": "fb2dba2d-c186-4165-ab7d-66ce276041a4",
-    "category": "Salaries",
-    "amount": 1707710.31,
-    "timestamp": "2020-05-04T20:18:41Z"
+    "expenseId": "EXP0005",
+    "category": "Pertes",
+    "amount": 1150.1,
+    "description": "Expense 5",
+    "timestamp": "2025-05-13T07:04:59"
   },
   {
-    "expenseId": "ba5ded78-639c-46ce-80bf-7d50642a1438",
-    "category": "Office",
-    "amount": 1375535.38,
-    "timestamp": "2021-11-04T02:56:56Z"
+    "expenseId": "EXP0006",
+    "category": "Électricité",
+    "amount": 1243.37,
+    "description": "Expense 6",
+    "timestamp": "2025-05-09T08:38:34"
   },
   {
-    "expenseId": "c2f642b5-399b-48d7-9deb-e6a4eed0b9fa",
-    "category": "Office",
-    "amount": 858502.63,
-    "timestamp": "2020-09-04T19:49:29Z"
+    "expenseId": "EXP0007",
+    "category": "Assurance",
+    "amount": 2137.31,
+    "description": "Expense 7",
+    "timestamp": "2025-02-25T01:14:55"
   },
   {
-    "expenseId": "fc8b38d8-388a-4898-9ca5-b942bbbec035",
-    "category": "Professional",
-    "amount": 1557261.18,
-    "timestamp": "2020-07-22T02:35:40Z"
+    "expenseId": "EXP0008",
+    "category": "Entreposage",
+    "amount": 236.72,
+    "description": "Expense 8",
+    "timestamp": "2025-02-13T19:06:55"
   },
   {
-    "expenseId": "36764f05-d204-4f71-bbd3-9d0263ea6863",
-    "category": "Salaries",
-    "amount": 586616.74,
-    "timestamp": "2021-01-18T01:06:07Z"
+    "expenseId": "EXP0009",
+    "category": "Pertes",
+    "amount": 952.02,
+    "description": "Expense 9",
+    "timestamp": "2025-03-27T15:48:45"
   },
   {
-    "expenseId": "39e86828-36f4-4282-9599-bc4c42bae3a1",
-    "category": "Office",
-    "amount": 1677605.54,
-    "timestamp": "2022-07-12T16:33:04Z"
+    "expenseId": "EXP0010",
+    "category": "Maintenance",
+    "amount": 507.06,
+    "description": "Expense 10",
+    "timestamp": "2025-02-01T15:23:49"
   },
   {
-    "expenseId": "66a3d687-05b0-4796-9b09-14941aa73031",
-    "category": "Salaries",
-    "amount": 1280249.59,
-    "timestamp": "2021-09-09T05:45:26Z"
+    "expenseId": "EXP0011",
+    "category": "Maintenance",
+    "amount": 269.75,
+    "description": "Expense 11",
+    "timestamp": "2025-04-04T21:47:00"
   },
   {
-    "expenseId": "cfbd98f2-c6ed-4bcc-b604-f3d330c5f31e",
-    "category": "Professional",
-    "amount": 1851906.49,
-    "timestamp": "2021-12-24T09:18:27Z"
+    "expenseId": "EXP0012",
+    "category": "Transport",
+    "amount": 2436.54,
+    "description": "Expense 12",
+    "timestamp": "2025-03-13T15:52:25"
   },
   {
-    "expenseId": "c68ccd7e-601c-4b09-b76f-c5a19308e526",
-    "category": "Salaries",
-    "amount": 1791685.13,
-    "timestamp": "2022-08-05T03:18:23Z"
+    "expenseId": "EXP0013",
+    "category": "Pertes",
+    "amount": 1303.23,
+    "description": "Expense 13",
+    "timestamp": "2025-03-16T12:18:57"
   },
   {
-    "expenseId": "3f19431c-3403-468b-9421-c9f54d466052",
-    "category": "Salaries",
-    "amount": 589917.71,
-    "timestamp": "2021-05-19T17:43:00Z"
+    "expenseId": "EXP0014",
+    "category": "Entreposage",
+    "amount": 1824.79,
+    "description": "Expense 14",
+    "timestamp": "2025-02-17T21:41:32"
+  },
+  {
+    "expenseId": "EXP0015",
+    "category": "Maintenance",
+    "amount": 1237.63,
+    "description": "Expense 15",
+    "timestamp": "2025-04-17T11:10:25"
+  },
+  {
+    "expenseId": "EXP0016",
+    "category": "Transport",
+    "amount": 1425.64,
+    "description": "Expense 16",
+    "timestamp": "2025-03-02T19:48:03"
+  },
+  {
+    "expenseId": "EXP0017",
+    "category": "Assurance",
+    "amount": 1038.11,
+    "description": "Expense 17",
+    "timestamp": "2025-04-13T18:28:18"
+  },
+  {
+    "expenseId": "EXP0018",
+    "category": "Entreposage",
+    "amount": 1200.15,
+    "description": "Expense 18",
+    "timestamp": "2025-04-08T07:41:54"
+  },
+  {
+    "expenseId": "EXP0019",
+    "category": "Maintenance",
+    "amount": 677.32,
+    "description": "Expense 19",
+    "timestamp": "2025-04-16T02:06:47"
+  },
+  {
+    "expenseId": "EXP0020",
+    "category": "Entreposage",
+    "amount": 574.37,
+    "description": "Expense 20",
+    "timestamp": "2025-04-12T19:55:40"
+  },
+  {
+    "expenseId": "EXP0021",
+    "category": "Transport",
+    "amount": 1808.91,
+    "description": "Expense 21",
+    "timestamp": "2025-05-03T09:01:48"
+  },
+  {
+    "expenseId": "EXP0022",
+    "category": "Assurance",
+    "amount": 2188.34,
+    "description": "Expense 22",
+    "timestamp": "2025-05-22T14:55:23"
+  },
+  {
+    "expenseId": "EXP0023",
+    "category": "Transport",
+    "amount": 862.7,
+    "description": "Expense 23",
+    "timestamp": "2025-03-26T00:35:59"
+  },
+  {
+    "expenseId": "EXP0024",
+    "category": "Assurance",
+    "amount": 617.28,
+    "description": "Expense 24",
+    "timestamp": "2025-04-05T14:56:02"
+  },
+  {
+    "expenseId": "EXP0025",
+    "category": "Maintenance",
+    "amount": 2088.08,
+    "description": "Expense 25",
+    "timestamp": "2025-04-09T19:51:10"
+  },
+  {
+    "expenseId": "EXP0026",
+    "category": "Électricité",
+    "amount": 625.12,
+    "description": "Expense 26",
+    "timestamp": "2025-05-16T17:51:08"
+  },
+  {
+    "expenseId": "EXP0027",
+    "category": "Électricité",
+    "amount": 1523.98,
+    "description": "Expense 27",
+    "timestamp": "2025-02-08T01:44:34"
+  },
+  {
+    "expenseId": "EXP0028",
+    "category": "Entreposage",
+    "amount": 501.92,
+    "description": "Expense 28",
+    "timestamp": "2025-03-19T06:32:18"
+  },
+  {
+    "expenseId": "EXP0029",
+    "category": "Entreposage",
+    "amount": 2750.15,
+    "description": "Expense 29",
+    "timestamp": "2025-05-25T16:29:14"
+  },
+  {
+    "expenseId": "EXP0030",
+    "category": "Électricité",
+    "amount": 409.85,
+    "description": "Expense 30",
+    "timestamp": "2025-04-28T18:27:00"
+  },
+  {
+    "expenseId": "EXP0031",
+    "category": "Transport",
+    "amount": 1815.97,
+    "description": "Expense 31",
+    "timestamp": "2025-05-30T03:25:45"
+  },
+  {
+    "expenseId": "EXP0032",
+    "category": "Entreposage",
+    "amount": 371.16,
+    "description": "Expense 32",
+    "timestamp": "2025-04-04T07:30:40"
+  },
+  {
+    "expenseId": "EXP0033",
+    "category": "Électricité",
+    "amount": 743.59,
+    "description": "Expense 33",
+    "timestamp": "2025-02-28T08:48:01"
+  },
+  {
+    "expenseId": "EXP0034",
+    "category": "Électricité",
+    "amount": 2287.74,
+    "description": "Expense 34",
+    "timestamp": "2025-04-25T22:37:01"
+  },
+  {
+    "expenseId": "EXP0035",
+    "category": "Entreposage",
+    "amount": 2081.07,
+    "description": "Expense 35",
+    "timestamp": "2025-03-29T01:45:27"
+  },
+  {
+    "expenseId": "EXP0036",
+    "category": "Transport",
+    "amount": 1852.47,
+    "description": "Expense 36",
+    "timestamp": "2025-04-12T18:26:35"
+  },
+  {
+    "expenseId": "EXP0037",
+    "category": "Entreposage",
+    "amount": 1246.65,
+    "description": "Expense 37",
+    "timestamp": "2025-02-11T04:15:04"
+  },
+  {
+    "expenseId": "EXP0038",
+    "category": "Pertes",
+    "amount": 1751.21,
+    "description": "Expense 38",
+    "timestamp": "2025-03-23T03:56:49"
+  },
+  {
+    "expenseId": "EXP0039",
+    "category": "Entreposage",
+    "amount": 748.14,
+    "description": "Expense 39",
+    "timestamp": "2025-05-11T00:12:14"
+  },
+  {
+    "expenseId": "EXP0040",
+    "category": "Entreposage",
+    "amount": 2238.25,
+    "description": "Expense 40",
+    "timestamp": "2025-02-09T01:33:19"
+  },
+  {
+    "expenseId": "EXP0041",
+    "category": "Assurance",
+    "amount": 2849.19,
+    "description": "Expense 41",
+    "timestamp": "2025-05-29T13:12:02"
+  },
+  {
+    "expenseId": "EXP0042",
+    "category": "Transport",
+    "amount": 571.08,
+    "description": "Expense 42",
+    "timestamp": "2025-02-12T11:15:29"
+  },
+  {
+    "expenseId": "EXP0043",
+    "category": "Électricité",
+    "amount": 2492.39,
+    "description": "Expense 43",
+    "timestamp": "2025-05-31T16:53:55"
+  },
+  {
+    "expenseId": "EXP0044",
+    "category": "Maintenance",
+    "amount": 374.04,
+    "description": "Expense 44",
+    "timestamp": "2025-02-02T07:46:31"
+  },
+  {
+    "expenseId": "EXP0045",
+    "category": "Entreposage",
+    "amount": 2122.31,
+    "description": "Expense 45",
+    "timestamp": "2025-04-24T13:38:19"
+  },
+  {
+    "expenseId": "EXP0046",
+    "category": "Transport",
+    "amount": 1939.53,
+    "description": "Expense 46",
+    "timestamp": "2025-03-25T04:05:13"
+  },
+  {
+    "expenseId": "EXP0047",
+    "category": "Entreposage",
+    "amount": 101.18,
+    "description": "Expense 47",
+    "timestamp": "2025-05-29T14:40:21"
+  },
+  {
+    "expenseId": "EXP0048",
+    "category": "Entreposage",
+    "amount": 685.52,
+    "description": "Expense 48",
+    "timestamp": "2025-05-29T08:09:57"
+  },
+  {
+    "expenseId": "EXP0049",
+    "category": "Entreposage",
+    "amount": 2617.48,
+    "description": "Expense 49",
+    "timestamp": "2025-02-10T12:47:15"
+  },
+  {
+    "expenseId": "EXP0050",
+    "category": "Pertes",
+    "amount": 1592.02,
+    "description": "Expense 50",
+    "timestamp": "2025-02-08T23:42:01"
+  },
+  {
+    "expenseId": "EXP0051",
+    "category": "Électricité",
+    "amount": 477.95,
+    "description": "Expense 51",
+    "timestamp": "2025-05-26T18:20:31"
+  },
+  {
+    "expenseId": "EXP0052",
+    "category": "Transport",
+    "amount": 2593.05,
+    "description": "Expense 52",
+    "timestamp": "2025-02-12T01:58:12"
+  },
+  {
+    "expenseId": "EXP0053",
+    "category": "Transport",
+    "amount": 806.24,
+    "description": "Expense 53",
+    "timestamp": "2025-05-29T20:40:08"
+  },
+  {
+    "expenseId": "EXP0054",
+    "category": "Maintenance",
+    "amount": 2638.14,
+    "description": "Expense 54",
+    "timestamp": "2025-02-16T22:55:39"
+  },
+  {
+    "expenseId": "EXP0055",
+    "category": "Transport",
+    "amount": 2445.97,
+    "description": "Expense 55",
+    "timestamp": "2025-04-18T04:20:37"
+  },
+  {
+    "expenseId": "EXP0056",
+    "category": "Pertes",
+    "amount": 2374.59,
+    "description": "Expense 56",
+    "timestamp": "2025-03-30T17:33:59"
+  },
+  {
+    "expenseId": "EXP0057",
+    "category": "Maintenance",
+    "amount": 1374.65,
+    "description": "Expense 57",
+    "timestamp": "2025-04-19T08:20:34"
+  },
+  {
+    "expenseId": "EXP0058",
+    "category": "Entreposage",
+    "amount": 1788.15,
+    "description": "Expense 58",
+    "timestamp": "2025-04-22T04:54:20"
+  },
+  {
+    "expenseId": "EXP0059",
+    "category": "Transport",
+    "amount": 2954.19,
+    "description": "Expense 59",
+    "timestamp": "2025-03-09T18:04:25"
+  },
+  {
+    "expenseId": "EXP0060",
+    "category": "Entreposage",
+    "amount": 852.22,
+    "description": "Expense 60",
+    "timestamp": "2025-03-07T09:48:02"
+  },
+  {
+    "expenseId": "EXP0061",
+    "category": "Entreposage",
+    "amount": 2316.4,
+    "description": "Expense 61",
+    "timestamp": "2025-04-16T03:21:06"
+  },
+  {
+    "expenseId": "EXP0062",
+    "category": "Assurance",
+    "amount": 1122.05,
+    "description": "Expense 62",
+    "timestamp": "2025-05-12T10:03:58"
+  },
+  {
+    "expenseId": "EXP0063",
+    "category": "Pertes",
+    "amount": 1283.69,
+    "description": "Expense 63",
+    "timestamp": "2025-04-18T03:27:53"
+  },
+  {
+    "expenseId": "EXP0064",
+    "category": "Transport",
+    "amount": 481.64,
+    "description": "Expense 64",
+    "timestamp": "2025-05-01T14:58:59"
+  },
+  {
+    "expenseId": "EXP0065",
+    "category": "Assurance",
+    "amount": 1181.21,
+    "description": "Expense 65",
+    "timestamp": "2025-05-25T09:30:55"
+  },
+  {
+    "expenseId": "EXP0066",
+    "category": "Pertes",
+    "amount": 2371.76,
+    "description": "Expense 66",
+    "timestamp": "2025-02-26T07:56:05"
+  },
+  {
+    "expenseId": "EXP0067",
+    "category": "Transport",
+    "amount": 1485.49,
+    "description": "Expense 67",
+    "timestamp": "2025-03-31T14:56:16"
+  },
+  {
+    "expenseId": "EXP0068",
+    "category": "Maintenance",
+    "amount": 1480.94,
+    "description": "Expense 68",
+    "timestamp": "2025-03-08T17:41:24"
+  },
+  {
+    "expenseId": "EXP0069",
+    "category": "Entreposage",
+    "amount": 2656.74,
+    "description": "Expense 69",
+    "timestamp": "2025-02-20T10:32:56"
+  },
+  {
+    "expenseId": "EXP0070",
+    "category": "Électricité",
+    "amount": 1545.73,
+    "description": "Expense 70",
+    "timestamp": "2025-04-18T07:17:11"
+  },
+  {
+    "expenseId": "EXP0071",
+    "category": "Pertes",
+    "amount": 2702.96,
+    "description": "Expense 71",
+    "timestamp": "2025-04-24T09:52:20"
+  },
+  {
+    "expenseId": "EXP0072",
+    "category": "Assurance",
+    "amount": 1796.72,
+    "description": "Expense 72",
+    "timestamp": "2025-02-18T00:12:52"
+  },
+  {
+    "expenseId": "EXP0073",
+    "category": "Assurance",
+    "amount": 2728.32,
+    "description": "Expense 73",
+    "timestamp": "2025-02-12T05:32:05"
+  },
+  {
+    "expenseId": "EXP0074",
+    "category": "Maintenance",
+    "amount": 2118.07,
+    "description": "Expense 74",
+    "timestamp": "2025-05-01T05:48:36"
+  },
+  {
+    "expenseId": "EXP0075",
+    "category": "Transport",
+    "amount": 2895.31,
+    "description": "Expense 75",
+    "timestamp": "2025-04-18T09:24:02"
+  },
+  {
+    "expenseId": "EXP0076",
+    "category": "Assurance",
+    "amount": 2672.18,
+    "description": "Expense 76",
+    "timestamp": "2025-02-20T01:23:13"
+  },
+  {
+    "expenseId": "EXP0077",
+    "category": "Transport",
+    "amount": 478.1,
+    "description": "Expense 77",
+    "timestamp": "2025-03-08T23:09:33"
+  },
+  {
+    "expenseId": "EXP0078",
+    "category": "Pertes",
+    "amount": 1091.33,
+    "description": "Expense 78",
+    "timestamp": "2025-05-27T16:34:45"
+  },
+  {
+    "expenseId": "EXP0079",
+    "category": "Pertes",
+    "amount": 2087.54,
+    "description": "Expense 79",
+    "timestamp": "2025-05-23T05:54:02"
   }
 ]
