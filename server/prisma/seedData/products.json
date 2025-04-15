@@ -1,26 +1,162 @@
 [
   {
     "productId": "P0001",
-    "name": "Toshiba Réfrigérateur 9697",
-    "category": "Réfrigérateur",
-    "brand": "Toshiba",
-    "price": 3324.84,
-    "rating": 3.5
+    "name": "Toshiba Sèche-linge 3243",
+    "category": "Sèche-linge",
+    "brand": "Whirlpool",
+    "price": 1067.85,
+    "rating": 4.3
   },
   {
     "productId": "P0002",
-    "name": "Brandt Gazinière 9408",
-    "category": "Gazinière",
-    "brand": "Brandt",
-    "price": 3381.03,
+    "name": "Samsung Four électrique 6797",
+    "category": "Four électrique",
+    "brand": "Whirlpool",
+    "price": 915.91,
     "rating": 3.8
   },
   {
     "productId": "P0003",
-    "name": "Toshiba Climatiseur 9128",
-    "category": "Climatiseur",
+    "name": "Samsung Réfrigérateur 2318",
+    "category": "Réfrigérateur",
     "brand": "Toshiba",
-    "price": 1968.76,
-    "rating": 3.9
+    "price": 2465.71,
+    "rating": 4.2
+  },
+  {
+    "productId": "P0004",
+    "name": "Whirlpool TV 3783",
+    "category": "TV",
+    "brand": "LG",
+    "price": 2218.47,
+    "rating": 4.3
+  },
+  {
+    "productId": "P0005",
+    "name": "Brandt Gazinière 6746",
+    "category": "Gazinière",
+    "brand": "Samsung",
+    "price": 604.3,
+    "rating": 3.2
+  },
+  {
+    "productId": "P0006",
+    "name": "LG Lave-vaisselle 2683",
+    "category": "Lave-vaisselle",
+    "brand": "Toshiba",
+    "price": 1002.58,
+    "rating": 3.6
+  },
+  {
+    "productId": "P0007",
+    "name": "Whirlpool TV 3701",
+    "category": "TV",
+    "brand": "Brandt",
+    "price": 1916.22,
+    "rating": 3.0
+  },
+  {
+    "productId": "P0008",
+    "name": "Brandt Lave-vaisselle 7184",
+    "category": "Lave-vaisselle",
+    "brand": "Samsung",
+    "price": 1413.16,
+    "rating": 4.3
+  },
+  {
+    "productId": "P0009",
+    "name": "Samsung Four électrique 5356",
+    "category": "Four électrique",
+    "brand": "Toshiba",
+    "price": 1378.14,
+    "rating": 3.3
+  },
+  {
+    "productId": "P0010",
+    "name": "Electrolux Sèche-linge 1698",
+    "category": "Sèche-linge",
+    "brand": "Whirlpool",
+    "price": 1411.61,
+    "rating": 3.7
+  },
+  {
+    "productId": "P0011",
+    "name": "LG Micro-ondes 7576",
+    "category": "Micro-ondes",
+    "brand": "Toshiba",
+    "price": 205.11,
+    "rating": 4.7
+  },
+  {
+    "productId": "P0012",
+    "name": "Electrolux Lave-linge 8211",
+    "category": "Lave-linge",
+    "brand": "LG",
+    "price": 1974.01,
+    "rating": 3.4
+  },
+  {
+    "productId": "P0013",
+    "name": "LG Sèche-linge 7663",
+    "category": "Sèche-linge",
+    "brand": "Samsung",
+    "price": 1383.3,
+    "rating": 4.2
+  },
+  {
+    "productId": "P0014",
+    "name": "Whirlpool Lave-vaisselle 2513",
+    "category": "Lave-vaisselle",
+    "brand": "Electrolux",
+    "price": 1306.07,
+    "rating": 3.7
+  },
+  {
+    "productId": "P0015",
+    "name": "Samsung Gazinière 6568",
+    "category": "Gazinière",
+    "brand": "Electrolux",
+    "price": 1223.1,
+    "rating": 4.3
+  },
+  {
+    "productId": "P0016",
+    "name": "Electrolux Four électrique 7618",
+    "category": "Four électrique",
+    "brand": "Whirlpool",
+    "price": 1069.8,
+    "rating": 4.3
+  },
+  {
+    "productId": "P0017",
+    "name": "Whirlpool Lave-vaisselle 1366",
+    "category": "Lave-vaisselle",
+    "brand": "Electrolux",
+    "price": 1253.82,
+    "rating": 4.5
+  },
+  {
+    "productId": "P0018",
+    "name": "Electrolux Lave-vaisselle 4697",
+    "category": "Lave-vaisselle",
+    "brand": "Toshiba",
+    "price": 1113.91,
+    "rating": 4.2
+  },
+  {
+    "productId": "P0019",
+    "name": "Electrolux Micro-ondes 7092",
+    "category": "Micro-ondes",
+    "brand": "LG",
+    "price": 615.31,
+    "rating": 3.8
+  },
+  {
+    "productId": "P0020",
+    "name": "LG Micro-ondes 5743",
+    "category": "Micro-ondes",
+    "brand": "Samsung",
+    "price": 231.32,
+    "rating": 3.6
   }
 ]

@@ -7,50 +7,50 @@
   },
   {
     "userId": "USR002",
-    "name": "Gestionnaire Stock Tunis",
+    "name": "gestionnaire-stock Tunis",
     "email": "gestionnaire.tunis@graiet.tn",
     "role": "gestionnaire-stock"
   },
   {
     "userId": "USR003",
-    "name": "Gestionnaire Stock Sousse",
+    "name": "gestionnaire-stock Sousse",
     "email": "gestionnaire.sousse@graiet.tn",
     "role": "gestionnaire-stock"
   },
   {
     "userId": "USR004",
-    "name": "Gestionnaire Stock Bizerte",
+    "name": "gestionnaire-stock Bizerte",
     "email": "gestionnaire.bizerte@graiet.tn",
     "role": "gestionnaire-stock"
   },
   {
     "userId": "USR005",
-    "name": "Gestionnaire Stock Sfax",
+    "name": "gestionnaire-stock Sfax",
     "email": "gestionnaire.sfax@graiet.tn",
     "role": "gestionnaire-stock"
   },
   {
     "userId": "USR006",
     "name": "Operateur",
-    "email": "operateur@graiet.tn",
+    "email": "operateur.tunis@graiet.tn",
     "role": "operateur"
   },
   {
     "userId": "USR007",
     "name": "Operateur",
-    "email": "operateur@graiet.tn",
+    "email": "operateur.sousse@graiet.tn",
     "role": "operateur"
   },
   {
     "userId": "USR008",
     "name": "Operateur",
-    "email": "operateur@graiet.tn",
+    "email": "operateur.bizerte@graiet.tn",
     "role": "operateur"
   },
   {
     "userId": "USR009",
     "name": "Operateur",
-    "email": "operateur@graiet.tn",
+    "email": "operateur.sfax@graiet.tn",
     "role": "operateur"
   },
   {

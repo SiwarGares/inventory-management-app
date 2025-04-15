@@ -5,7 +5,7 @@
     "email": "fournisseur1@graiet.tn",
     "phone": "+216 70 00 00 01",
     "address": "Zone industrielle 1, Tunis",
-    "status": "en attente"
+    "status": "en_attente"
   },
   {
     "supplierId": "SUP002",
@@ -21,7 +21,7 @@
     "email": "fournisseur3@graiet.tn",
     "phone": "+216 70 00 00 03",
     "address": "Zone industrielle 3, Tunis",
-    "status": "en attente"
+    "status": "en_attente"
   },
   {
     "supplierId": "SUP004",

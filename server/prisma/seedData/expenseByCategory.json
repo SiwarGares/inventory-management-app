@@ -58,7 +58,7 @@
   {
     "expenseByCategoryId": "EBC009",
     "expenseSummaryId": "ESUM002",
-    "category": "Entreposage",
+    "category": "Pertes",
     "amount": 236.72,
     "date": "2025-06-01T23:59:59Z"
   },
@@ -100,7 +100,7 @@
   {
     "expenseByCategoryId": "EBC015",
     "expenseSummaryId": "ESUM003",
-    "category": "Entreposage",
+    "category": "Transport",
     "amount": 1824.79,
     "date": "2025-06-02T23:59:59Z"
   },
@@ -128,7 +128,7 @@
   {
     "expenseByCategoryId": "EBC019",
     "expenseSummaryId": "ESUM004",
-    "category": "Entreposage",
+    "category": "Pertes",
     "amount": 1200.15,
     "date": "2025-06-03T23:59:59Z"
   },

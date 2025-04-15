@@ -5,7 +5,39 @@
     "lastExpenseDate": "2025-04-16T02:06:47",
     "numberOfExpenses": 20,
     "date": "2025-05-31T23:59:59Z",
-    "changePercentage": 2.5
+    "changePercentage": 2.5,
+    "categories": [
+      {
+        "expenseByCategoryId": "EBC001",
+        "category": "Transport",
+        "amount": 6423.21,
+        "date": "2025-05-10T12:15:00Z"
+      },
+      {
+        "expenseByCategoryId": "EBC002",
+        "category": "Électricité",
+        "amount": 4231.18,
+        "date": "2025-05-14T09:30:00Z"
+      },
+      {
+        "expenseByCategoryId": "EBC003",
+        "category": "Maintenance",
+        "amount": 3210.55,
+        "date": "2025-05-18T15:45:00Z"
+      },
+      {
+        "expenseByCategoryId": "EBC004",
+        "category": "Assurance",
+        "amount": 3100.25,
+        "date": "2025-05-21T10:00:00Z"
+      },
+      {
+        "expenseByCategoryId": "EBC005",
+        "category": "Pertes",
+        "amount": 8696.20,
+        "date": "2025-05-30T17:20:00Z"
+      }
+    ]
   },
   {
     "expenseSummaryId": "ESUM002",
@@ -13,7 +45,39 @@
     "lastExpenseDate": "2025-05-11T00:12:14",
     "numberOfExpenses": 20,
     "date": "2025-06-01T23:59:59Z",
-    "changePercentage": -4.4
+    "changePercentage": -4.4,
+    "categories": [
+      {
+        "expenseByCategoryId": "EBC006",
+        "category": "Transport",
+        "amount": 5580.00,
+        "date": "2025-06-01T08:10:00Z"
+      },
+      {
+        "expenseByCategoryId": "EBC007",
+        "category": "Électricité",
+        "amount": 4768.70,
+        "date": "2025-06-01T11:30:00Z"
+      },
+      {
+        "expenseByCategoryId": "EBC008",
+        "category": "Maintenance",
+        "amount": 5020.00,
+        "date": "2025-06-01T14:45:00Z"
+      },
+      {
+        "expenseByCategoryId": "EBC009",
+        "category": "Assurance",
+        "amount": 3400.00,
+        "date": "2025-06-01T16:00:00Z"
+      },
+      {
+        "expenseByCategoryId": "EBC010",
+        "category": "Pertes",
+        "amount": 8080.00,
+        "date": "2025-06-01T18:30:00Z"
+      }
+    ]
   },
   {
     "expenseSummaryId": "ESUM003",
@@ -21,7 +85,39 @@
     "lastExpenseDate": "2025-03-09T18:04:25",
     "numberOfExpenses": 20,
     "date": "2025-06-02T23:59:59Z",
-    "changePercentage": 9.5
+    "changePercentage": 9.5,
+    "categories": [
+      {
+        "expenseByCategoryId": "EBC011",
+        "category": "Transport",
+        "amount": 8000.00,
+        "date": "2025-06-02T09:00:00Z"
+      },
+      {
+        "expenseByCategoryId": "EBC012",
+        "category": "Électricité",
+        "amount": 4900.00,
+        "date": "2025-06-02T11:00:00Z"
+      },
+      {
+        "expenseByCategoryId": "EBC013",
+        "category": "Maintenance",
+        "amount": 7400.00,
+        "date": "2025-06-02T13:00:00Z"
+      },
+      {
+        "expenseByCategoryId": "EBC014",
+        "category": "Assurance",
+        "amount": 3600.00,
+        "date": "2025-06-02T15:00:00Z"
+      },
+      {
+        "expenseByCategoryId": "EBC015",
+        "category": "Pertes",
+        "amount": 10135.92,
+        "date": "2025-06-02T17:00:00Z"
+      }
+    ]
   },
   {
     "expenseSummaryId": "ESUM004",
@@ -29,6 +125,38 @@
     "lastExpenseDate": "2025-05-23T05:54:02",
     "numberOfExpenses": 20,
     "date": "2025-06-03T23:59:59Z",
-    "changePercentage": -3.7
+    "changePercentage": -3.7,
+    "categories": [
+      {
+        "expenseByCategoryId": "EBC016",
+        "category": "Transport",
+        "amount": 6700.00,
+        "date": "2025-06-03T10:10:00Z"
+      },
+      {
+        "expenseByCategoryId": "EBC017",
+        "category": "Électricité",
+        "amount": 5800.00,
+        "date": "2025-06-03T12:00:00Z"
+      },
+      {
+        "expenseByCategoryId": "EBC018",
+        "category": "Maintenance",
+        "amount": 7000.00,
+        "date": "2025-06-03T14:00:00Z"
+      },
+      {
+        "expenseByCategoryId": "EBC019",
+        "category": "Assurance",
+        "amount": 3848.40,
+        "date": "2025-06-03T16:00:00Z"
+      },
+      {
+        "expenseByCategoryId": "EBC020",
+        "category": "Pertes",
+        "amount": 9000.00,
+        "date": "2025-06-03T18:00:00Z"
+      }
+    ]
   }
 ]

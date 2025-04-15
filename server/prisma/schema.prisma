@@ -7,11 +7,16 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-enum UserRole {
+/* enum UserRole {
   admin
   gestionnaireStock
   operateur
   fournisseur
+} */
+
+enum SupplierStatus {
+  ACTIF      @map("actif")
+  EN_ATTENTE @map("en_attente")
 }
 
 enum ExpenseCategory {
@@ -23,22 +28,23 @@ enum ExpenseCategory {
 }
 
 enum PurchaseOrderStatus {
-  pending
-  completed
-  cancelled
+  EN_ATTENTE @map("en_attente")
+  EN_COURS   @map("en_cours")
+  LIVREE     @map("livrée")
+  ANNULEE    @map("annulée")
 }
 
 model Users {
   userId        String        @id @default(uuid())
   name          String
   email         String        @unique
-  role          UserRole
+  role           String// UserRole Utiliser l'enum UserRole
   createdAt     DateTime      @default(now())
   updatedAt     DateTime      @updatedAt
 
-  Warehouses    Warehouses[]  // Relation avec Warehouses (pour managerId)
-  WarehouseOperator WarehouseOperator[] // Relation avec WarehouseOperator
-  PurchaseOrders PurchaseOrder[] // Relation avec PurchaseOrder (opérateur)
+  Warehouses    Warehouses[]  @relation("manager")
+  WarehouseOperator WarehouseOperator[]
+  PurchaseOrders PurchaseOrder[]
 }
 
 model Suppliers {
@@ -47,12 +53,12 @@ model Suppliers {
   email      String   @unique
   phone      String?
   address    String?
-  status     String
+  status     SupplierStatus // Utiliser l'enum SupplierStatus
   createdAt  DateTime @default(now())
   updatedAt  DateTime @updatedAt
 
   Purchases      Purchases[]
-  PurchaseOrders PurchaseOrder[] // Relation avec PurchaseOrder (fournisseur suggéré)
+  PurchaseOrders PurchaseOrder[]
 }
 
 model Warehouses {
@@ -63,12 +69,12 @@ model Warehouses {
   createdAt   DateTime @default(now())
   updatedAt   DateTime @updatedAt
 
-  manager     Users      @relation(fields: [managerId], references: [userId])
-  operators   WarehouseOperator[] // Relation avec les opérateurs
+  manager     Users      @relation("manager", fields: [managerId], references: [userId])
+  operators   WarehouseOperator[]
   ProductWarehouse ProductWarehouse[]
   Sales           Sales[]
   Purchases       Purchases[]
-  PurchaseOrders  PurchaseOrder[] // Relation avec PurchaseOrder (entrepôt)
+  PurchaseOrders  PurchaseOrder[]
   SalesByWarehouse SalesByWarehouse[]
   PurchasesByWarehouse PurchasesByWarehouse[]
 }
@@ -96,12 +102,12 @@ model Products {
   ProductWarehouse ProductWarehouse[]
   Sales           Sales[]
   Purchases       Purchases[]
-  PurchaseOrders  PurchaseOrder[] // Relation avec PurchaseOrder (produit)
+  PurchaseOrders  PurchaseOrder[]
 }
 
 model ProductWarehouse {
-  productId    String   @map("product_id")
-  warehouseId  String   @map("warehouse_id")
+  productId    String
+  warehouseId  String
   stockQuantity Int
 
   product      Products   @relation(fields: [productId], references: [productId])
@@ -145,7 +151,7 @@ model PurchaseOrder {
   userId          String
   supplierId      String?
   quantity        Int
-  status          PurchaseOrderStatus @default(pending)
+  status          PurchaseOrderStatus @default(EN_ATTENTE)
   timestamp       DateTime            @default(now())
   createdAt       DateTime            @default(now())
   updatedAt       DateTime            @updatedAt
