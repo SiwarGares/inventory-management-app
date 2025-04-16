@@ -27,18 +27,49 @@ export const createProduct = async (
   res: Response
 ): Promise<void> => {
   try {
-    const { productId, name, price, rating, stockQuantity } = req.body;
+    const {
+      name,
+      category,
+      brand,
+      price,
+      rating,
+      stockEntries, // [{ warehouseId: "WH001", stockQuantity: 100 }, ...]
+    } = req.body;
+
+    // Step 1: Create the product
     const product = await prisma.products.create({
       data: {
-        productId,
         name,
+        category,
+        brand,
         price,
         rating,
-        stockQuantity,
       },
     });
-    res.status(201).json(product);
+
+    // Step 2: Create entries in ProductWarehouse for each warehouse
+    const warehousePromises = stockEntries.map((entry: { warehouseId: string, stockQuantity: number }) =>
+      prisma.productWarehouse.create({
+        data: {
+          productId: product.productId,
+          warehouseId: entry.warehouseId,
+          stockQuantity: entry.stockQuantity,
+        },
+      })
+    );
+
+    await Promise.all(warehousePromises);
+
+    // Optional: fetch product with all warehouse stocks
+    const fullProduct = await prisma.products.findUnique({
+      where: { productId: product.productId },
+      include: { ProductWarehouse: true },
+    });
+
+    res.status(201).json(fullProduct);
   } catch (error) {
+    console.error("Error creating product:", error);
     res.status(500).json({ message: "Error creating product" });
   }
 };
+
